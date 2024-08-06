@@ -25,8 +25,14 @@ function updateText() {
 
     if (key.startsWith("categories.")) {
       categoriesUpdate(key, translationData, element);
+    } else if (key.startsWith("therapist.")) {
+      therapistUpdate(key, translationData, element);
     } else if (translationData[key]) {
-      element.textContent = translationData[key];
+      if (element.tagName === "INPUT") {
+        element.placeholder = translationData[key];
+      } else {
+        element.textContent = translationData[key];
+      }
     }
   });
 }
@@ -45,6 +51,20 @@ function categoriesUpdate(key, translationData, element) {
 
     if (category && category[field]) {
       element.textContent = category[field];
+    }
+  }
+}
+
+function therapistUpdate(key, translationData, element) {
+  const [_, fieldWithId] = key.split(".");
+  const [field, id] = fieldWithId.split("-");
+  if (Array.isArray(translationData.specialists)) {
+    const therapist = translationData.specialists.find(
+      (c) => c.id === parseInt(id, 10)
+    );
+
+    if (therapist && therapist[field]) {
+      element.textContent = therapist[field];
     }
   }
 }

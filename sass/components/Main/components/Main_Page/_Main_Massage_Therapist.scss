@@ -58,28 +58,6 @@
                   }
                 }
               }
-              .rating_list {
-                display: flex;
-                align-items: center;
-                .rating {
-                  margin-right: 10px;
-                  .star {
-                    color: gold;
-                    font-size: 25px;
-                    display: inline-block;
-                  }
-                }
-                .average_rating {
-                  span {
-                    color: rgba(0, 0, 0, 0.56);
-                    font-family: Manrope;
-                    font-size: 18px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: normal;
-                  }
-                }
-              }
             }
             .content_item_sign_up {
               display: flex;

@@ -3,7 +3,7 @@
   "blogNews": "Novinky a blog",
   "gallery": "Fotogalerie",
   "cafe": "Kavárna",
-  "signUp": "Zaregistrovat se",
+  "signUp": "Objednat se",
   "spaTherapy": "SPA terapie",
   "momentsOfPleasure": "Dopřejte si chvíle potěšení",
   "contacts": "Kontakty",
@@ -50,5 +50,74 @@
       "moreInfoUrl": "/ceremonies.html"
     }
   ],
-  "learnMore": "Zjistěte více"
+  "learnMore": "Zjistěte více",
+  "specialistsHeader": "Specialisté",
+  "specialists": [
+    {
+      "id": 1,
+      "name": "Oksana Kovalenko",
+      "role": "Administrátor",
+      "image": "../../image/therapist/admin.png"
+    },
+    {
+      "id": 2,
+      "name": "Anna Herasymenko",
+      "role": "Masérka",
+      "image": "../../image/therapist/Anna.png"
+    },
+    {
+      "id": 3,
+      "name": "Oleksandr Shevchenko",
+      "role": "Masér, odborník na sauny",
+      "image": "../../image/therapist/Alex.png"
+    },
+    {
+      "id": 4,
+      "name": "Mariya Kovalchuk",
+      "role": "Masérka",
+      "image": "../../image/therapist/Mari.png"
+    },
+    {
+      "id": 5,
+      "name": "Ivan Honcharenko",
+      "role": "Masér, odborník na sauny",
+      "image": "../../image/therapist/Ivan.png"
+    },
+    {
+      "id": 6,
+      "name": "Olena Boyko",
+      "role": "Masérka",
+      "image": "../../image/therapist/Elena.png"
+    },
+    {
+      "id": 7,
+      "name": "Dmytro Sydorenko",
+      "role": "Masér, odborník na sauny",
+      "image": "../../image/therapist/Dmitry.png"
+    },
+    {
+      "id": 8,
+      "name": "Tetyana Melnyk",
+      "role": "Masérka",
+      "image": "../../image/therapist/Tanya.png"
+    },
+    {
+      "id": 9,
+      "name": "Andriy Petrovskiy",
+      "role": "Masér, odborník na sauny",
+      "image": "../../image/therapist/Andriy.png"
+    }
+  ],
+  "whyUsHeader": "Proč právě my?",
+  "qualityTitle": "Kvalita",
+  "qualityDescription": "Naše lázně zajišťují nejvyšší kvalitu služeb díky kvalifikovaným specialistům, individuálnímu přístupu a používání nejnovějších technologií a organických produktů.",
+  "effectivenessTitle": "Účinnost",
+  "effectivenessDescription": "Účinnost našich lázeňských procedur spočívá v kombinaci pokročilých technik, individuálně přizpůsobených programů a pečlivě vybraných produktů, které zaručují dlouhodobé a viditelné výsledky.",
+  "safetyTitle": "Bezpečnost",
+  "safetyDescription": "Bezpečnost našeho lázeňského zařízení je zajištěna dodržováním nejvyšších hygienických standardů, používáním ekologicky šetrných produktů a přísnou kontrolou kvality procedur.",
+  "OrderHeader": "Objednávka",
+  "orderText": "Můžete si objednat naše služby zadáním svých údajů",
+  "placeholderName": "Vaše jméno",
+  "placeholderEmail": "Váš email",
+  "placeholderPhone": "Váš telefon"
 }

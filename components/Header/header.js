@@ -41,7 +41,7 @@ export function Header() {
           <li class="Main_Header_text">
             <ul class="Main_Header_text_list">
               <li class="Main_Header_text_item">
-                <a href="create_record.html" class="Header_Link_Sign_Up" data-language="signUp">Записатись</a>
+                <a href="#order-form-section" class="Header_Link_Sign_Up" data-language="signUp">Записатись</a>
               </li>
               <li class="Main_Header_text_item">
                 <h1 data-language="spaTherapy">SPA-терапія</h1>

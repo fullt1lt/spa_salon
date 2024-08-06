@@ -50,6 +50,74 @@
       "moreInfoUrl": "/ceremonies.html"
     }
   ],
-  "learnMore": "Дізнатися більше"
-
+  "learnMore": "Дізнатися більше",
+  "specialistsHeader": "Спеціалісти",
+  "specialists": [
+    {
+      "id": 1,
+      "name": "Оксана Коваленко",
+      "role": "Адміністратор",
+      "image": "../../image/therapist/admin.png"
+    },
+    {
+      "id": 2,
+      "name": "Анна Герасименко",
+      "role": "Масажистка",
+      "image": "../../image/therapist/Anna.png"
+    },
+    {
+      "id": 3,
+      "name": "Олександр Шевченко",
+      "role": "Масажист, банщик",
+      "image": "../../image/therapist/Alex.png"
+    },
+    {
+      "id": 4,
+      "name": "Марія Ковальчук",
+      "role": "Масажистка",
+      "image": "../../image/therapist/Mari.png"
+    },
+    {
+      "id": 5,
+      "name": "Іван Гончаренко",
+      "role": "Масажист, банщик",
+      "image": "../../image/therapist/Ivan.png"
+    },
+    {
+      "id": 6,
+      "name": "Олена Бойко",
+      "role": "Масажистка",
+      "image": "../../image/therapist/Elena.png"
+    },
+    {
+      "id": 7,
+      "name": "Дмитро Сидоренко",
+      "role": "Масажист, банщик",
+      "image": "../../image/therapist/Dmitry.png"
+    },
+    {
+      "id": 8,
+      "name": "Тетяна Мельник",
+      "role": "Масажистка",
+      "image": "../../image/therapist/Tanya.png"
+    },
+    {
+      "id": 9,
+      "name": "Андрій Петровський",
+      "role": "Масажист, банщик",
+      "image": "../../image/therapist/Andriy.png"
+    }
+  ],
+  "whyUsHeader": "Чому саме ми?",
+  "qualityTitle": "Якість",
+  "qualityDescription": "Наш спа-салон забезпечує найвищу якість послуг завдяки кваліфікованим спеціалістам, індивідуальному підходу та використанню новітніх технологій і органічних продуктів.",
+  "effectivenessTitle": "Ефективність",
+  "effectivenessDescription": "Ефективність наших спа-процедур полягає в поєднанні передових методик, індивідуально підібраних програм і ретельно відібраних продуктів, що гарантують тривалі та помітні результати.",
+  "safetyTitle": "Безпека",
+  "safetyDescription": "Безпека нашого спа-салону забезпечується дотриманням найвищих стандартів гігієни, використанням екологічно чистих продуктів і суворим контролем якості процедур.",
+  "OrderHeader": "Запис",
+  "orderText": "Ви можете записатися на наші послуги, залишивши свої дані",
+  "placeholderName": "Ваше ім'я",
+  "placeholderEmail": "Ваш email",
+  "placeholderPhone": "Ваш телефон"
 }

@@ -1072,30 +1072,6 @@ a {
   font-weight: 400;
   line-height: normal;
 }
-.Main_Massage_Therapist .Main_Massage_Therapist_list .Main_Massage_Therapist_content .Main_Massage_Therapist_content_list .Massage_Therapist_content_item .content_item_info_list .content_item_info .rating_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-.Main_Massage_Therapist .Main_Massage_Therapist_list .Main_Massage_Therapist_content .Main_Massage_Therapist_content_list .Massage_Therapist_content_item .content_item_info_list .content_item_info .rating_list .rating {
-  margin-right: 10px;
-}
-.Main_Massage_Therapist .Main_Massage_Therapist_list .Main_Massage_Therapist_content .Main_Massage_Therapist_content_list .Massage_Therapist_content_item .content_item_info_list .content_item_info .rating_list .rating .star {
-  color: gold;
-  font-size: 25px;
-  display: inline-block;
-}
-.Main_Massage_Therapist .Main_Massage_Therapist_list .Main_Massage_Therapist_content .Main_Massage_Therapist_content_list .Massage_Therapist_content_item .content_item_info_list .content_item_info .rating_list .average_rating span {
-  color: rgba(0, 0, 0, 0.56);
-  font-family: Manrope;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
 .Main_Massage_Therapist .Main_Massage_Therapist_list .Main_Massage_Therapist_content .Main_Massage_Therapist_content_list .Massage_Therapist_content_item .content_item_info_list .content_item_sign_up {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1199,10 +1175,10 @@ a {
   line-height: normal;
 }
 
-.Main_Review {
+.Main_Order {
   margin-top: 80px;
 }
-.Main_Review .Main_Review_list {
+.Main_Order .Main_Order_list {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1212,132 +1188,7 @@ a {
           flex-direction: column;
   width: 100%;
 }
-.Main_Review .Main_Review_list .Block_review {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  width: 80%;
-  margin-top: 50px;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list::-webkit-scrollbar {
-  display: none;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  width: 100%;
-  gap: 24px;
-  max-height: 450px;
-  overflow-y: auto;
-  padding: 15px;
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list .review_item {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  width: 45%;
-  padding: 16px;
-  -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
-  border-radius: 16px;
-  background: #fff;
-  -webkit-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-          box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-}
-.Main_Review .Main_Review_list .Block_review .Review_list .review_item .review_user_info_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  width: 100%;
-  -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
-  display: flex;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list .review_item .review_user_info_list .user_image {
-  width: 95px;
-  height: 95px;
-  -o-object-fit: cover;
-     object-fit: cover;
-  border-radius: 8px;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list .review_item .review_user_info_list .review_user_name {
-  color: #000;
-  font-size: 26px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-left: 16px;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list .review_item .review_commit {
-  width: 100%;
-  margin-top: 24px;
-  color: #000;
-  font-family: "Spline Sans";
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  overflow-wrap: break-word;
-  white-space: normal;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list .review_item .rating_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  width: 100%;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list .review_item .rating_list .rating {
-  margin-right: 10px;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list .review_item .rating_list .rating .star {
-  color: gold;
-  font-size: 25px;
-  display: inline-block;
-}
-.Main_Review .Main_Review_list .Block_review .Review_list .review_item .rating_list .created_at_item {
-  color: rgba(0, 0, 0, 0.56);
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
-.Main_Review .Main_Review_list .Block_review .load_more_button {
-  background-image: none;
-  background: transparent;
-  border: none;
-}
-.Main_Review .Main_Review_list .Block_review .load_more_button img {
-  width: 25px;
-  height: 25px;
-}
-.Main_Review .Main_Review_list .Review_main_list {
+.Main_Order .Main_Order_list .Order_main_list {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1351,7 +1202,7 @@ a {
   margin-top: 90px;
   width: 80%;
 }
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list {
+.Main_Order .Main_Order_list .Order_main_list .Order_form_list {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1360,7 +1211,7 @@ a {
           justify-content: space-between;
   width: 100%;
 }
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list .Review_form_item {
+.Main_Order .Main_Order_list .Order_main_list .Order_form_list .Order_form_item {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1373,36 +1224,34 @@ a {
           align-items: flex-start;
   width: 50%;
 }
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list .Review_form_item .review_form_header {
+.Main_Order .Main_Order_list .Order_main_list .Order_form_list .Order_form_item .order_form_header {
   color: #000;
-  text-align: center;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
 }
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list .Review_form_item .review_form {
-  margin-top: 65px;
-}
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list .Review_form_item .review_form p {
+.Main_Order .Main_Order_list .Order_main_list .Order_form_list .Order_form_item .order_form {
+  margin-top: 40px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  width: 100%;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  width: 100%;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
 }
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list .Review_form_item .review_form p label {
-  display: none;
-}
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list .Review_form_item .review_form p #id_therapist {
+.Main_Order .Main_Order_list .Order_main_list .Order_form_list .Order_form_item .order_form input {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-top: 10px;
   width: 100%;
-  padding: 15px 16px;
+  padding: 10px 11px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -1416,42 +1265,22 @@ a {
   line-height: 22px; /* 137.5% */
   letter-spacing: 0.16px;
 }
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list .Review_form_item .review_form p .form-control {
-  border-radius: 5px;
-  margin-top: 16px;
-  width: 100%;
-  height: 144px;
-  border: 2px solid #030303;
-  color: #181719;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 22px; /* 137.5% */
-  letter-spacing: 0.16px;
-  resize: none;
-}
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list .Review_form_item .review_form .rating-stars .star_rating {
-  color: gold;
-  font-size: 45px;
-  display: inline-block;
-  cursor: default;
-}
-.Main_Review .Main_Review_list .Review_main_list .Review_form_list .Review_form_item .review_form .rating_button {
-  margin-top: 25px;
+.Main_Order .Main_Order_list .Order_main_list .Order_form_list .Order_form_item .order_form button {
+  margin-top: 15px;
   border: 2px solid #0c0c0c;
   padding: 15px 30px;
   color: #141414;
   text-align: center;
+  font-family: var(--font-family-Manrope);
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
   line-height: 19.5px;
   letter-spacing: 1.56px;
   text-transform: uppercase;
-  background-image: none;
-  background: transparent;
+  background-color: transparent;
 }
-.Main_Review .Main_Review_list .Review_main_list .Review_image_item {
+.Main_Order .Main_Order_list .Order_main_list .Review_image_item {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1463,7 +1292,7 @@ a {
           align-items: center;
   width: 50%;
 }
-.Main_Review .Main_Review_list .Review_main_list .Review_image_item .Review_image {
+.Main_Order .Main_Order_list .Order_main_list .Review_image_item .Review_image {
   width: 300px;
   height: 300px;
 }

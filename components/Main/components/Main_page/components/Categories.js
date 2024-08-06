@@ -46,7 +46,7 @@ export function Categories() {
                   </li>
                   <li class="item_info">
                     <a href="${category.moreInfoUrl}" class="Category_More_Info" data-language="learnMore">Дізнатися більше</a>
-                    <a href="/create_record.html" class="Category_Link_Sign_Up" data-language="signUp">Записатись</a>
+                    <a href="#order-form-section" class="Category_Link_Sign_Up" data-language="signUp">Записатись</a>
                   </li>
                 </ul>
               </li>

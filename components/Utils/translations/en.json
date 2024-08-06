@@ -50,5 +50,73 @@
       "moreInfoUrl": "/ceremonies.html"
     }
   ],
-  "learnMore": "Learn More"
+  "learnMore": "Learn More",
+  "specialists": [
+    {
+      "id": 1,
+      "name": "Oksana Kovalenko",
+      "role": "Administrator",
+      "image": "../../image/therapist/admin.png"
+    },
+    {
+      "id": 2,
+      "name": "Anna Herasymenko",
+      "role": "Masseuse",
+      "image": "../../image/therapist/Anna.png"
+    },
+    {
+      "id": 3,
+      "name": "Oleksandr Shevchenko",
+      "role": "Masseur, Bath Attendant",
+      "image": "../../image/therapist/Alex.png"
+    },
+    {
+      "id": 4,
+      "name": "Mariya Kovalchuk",
+      "role": "Masseuse",
+      "image": "../../image/therapist/Mari.png"
+    },
+    {
+      "id": 5,
+      "name": "Ivan Honcharenko",
+      "role": "Masseur, Bath Attendant",
+      "image": "../../image/therapist/Ivan.png"
+    },
+    {
+      "id": 6,
+      "name": "Olena Boyko",
+      "role": "Masseuse",
+      "image": "../../image/therapist/Elena.png"
+    },
+    {
+      "id": 7,
+      "name": "Dmytro Sydorenko",
+      "role": "Masseur, Bath Attendant",
+      "image": "../../image/therapist/Dmitry.png"
+    },
+    {
+      "id": 8,
+      "name": "Tetyana Melnyk",
+      "role": "Masseuse",
+      "image": "../../image/therapist/Tanya.png"
+    },
+    {
+      "id": 9,
+      "name": "Andriy Petrovskiy",
+      "role": "Masseur, Bath Attendant",
+      "image": "../../image/therapist/Andriy.png"
+    }
+  ],
+  "whyUsHeader": "Why Us?",
+  "qualityTitle": "Quality",
+  "qualityDescription": "Our spa ensures the highest quality of services thanks to qualified specialists, a personalized approach, and the use of the latest technologies and organic products.",
+  "effectivenessTitle": "Effectiveness",
+  "effectivenessDescription": "The effectiveness of our spa treatments lies in the combination of advanced techniques, individually tailored programs, and carefully selected products that guarantee long-lasting and noticeable results.",
+  "safetyTitle": "Safety",
+  "safetyDescription": "The safety of our spa is ensured by adhering to the highest hygiene standards, using environmentally friendly products, and strict quality control of procedures.",
+  "OrderHeader": "Order",
+  "orderText": "You can book our services by leaving your details",
+  "placeholderName": "Your name",
+  "placeholderEmail": "Your email",
+  "placeholderPhone": "Your phone"
 }
