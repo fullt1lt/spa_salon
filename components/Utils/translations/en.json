@@ -1,0 +1,54 @@
+{
+  "language": "EN",
+  "blogNews": "News & Blog",
+  "gallery": "Photo Gallery",
+  "cafe": "Cafe",
+  "signUp": "Sign Up",
+  "spaTherapy": "SPA Therapy",
+  "momentsOfPleasure": "Give Yourself Moments of Pleasure",
+  "contacts": "Contacts",
+  "aboutUsHeader": "About Us",
+  "aboutUsText1": "Welcome to our unique establishment, where every corner is filled with an atmosphere of comfort and relaxation. Here you can forget about the city noise and daily worries, immersing yourself in the world of desires and pleasure. Our mission is to give you not only pleasant moments but also to care for your well-being and health. You are a guest in our world, and we are ready to do everything for your harmony and pleasure.",
+  "aboutUsText2": "We have created an atmosphere where you will feel special, where every sip of coffee and spa ritual will become a magical moment for you.",
+  "aboutUsText3": "For us, every guest is unique, so we offer individual spa treatment programs and personalized coffee drinks.",
+  "aboutUsText4": "We offer a wide range of spa treatments, from massages to exclusive wraps, as well as various steaming and ceremonies.",
+  "philosophyHeader": "Philosophy",
+  "ecoStrategiesTitle": "Eco Strategies",
+  "ecoStrategiesText": "We implement environmentally friendly technologies and use natural, organic products to ensure not only the effectiveness of procedures but also safety for the environment. Our innovative solutions help reduce the impact on nature, preserving its beauty for future generations.",
+  "professionalCareTitle": "Professional Care",
+  "professionalCareText": "Qualified specialists are aware of the latest trends and techniques. They understand the unique needs of the client and are always ready to provide individual recommendations and high-quality service. They work diligently to ensure you get the best results and unforgettable experiences from every visit to our spa.",
+  "individualApproachTitle": "Individual Approach",
+  "individualApproachText": "Our specialists offer an individual approach to each client, considering all the characteristics of your skin and developing unique care programs tailored to your needs. This combination allows achieving the best results and ensures maximum effect from the procedures.",
+  "servicesHeader": "Services",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Massages",
+      "description": "Our massages are a unique combination of traditional and modern techniques. From classic to Thai, sports, and aromatherapy massage, each procedure is aimed at relieving muscle tension, improving blood circulation, and overall well-being. Trust our experienced massage therapists and feel deep relaxation.",
+      "image": "../../image/category/Massage.png",
+      "moreInfoUrl": "/massage.html"
+    },
+    {
+      "id": 2,
+      "name": "Peelings",
+      "description": "Peeling is a cosmetic procedure aimed at removing the top layer of dead skin cells to improve its texture, appearance, and overall condition. The main advantage of the procedure is exfoliating the skin, which stimulates its renewal and regeneration. The choice of peeling depends on the individual needs of the skin and the expected results.",
+      "image": "../../image/category/peeling.jpg",
+      "moreInfoUrl": "/peelings.html"
+    },
+    {
+      "id": 3,
+      "name": "Steaming and Wrapping",
+      "description": "In our spa complex, we offer several types of steaming and wrapping, using only natural essential oils and herbs that enhance the effect of the procedure and provide pleasant aromas. Our professional specialists will ensure your comfort and relaxation during the procedures, taking into account all your wishes. During wrapping, special mixtures of natural components, such as seaweed, clay, honey, chocolate, or essential oils, are applied to the body, and then the body is wrapped in foil or special fabrics.",
+      "image": "../../image/category/baths.jpg",
+      "moreInfoUrl": "/steaming_wrapping.html"
+    },
+    {
+      "id": 4,
+      "name": "Ceremonies",
+      "description": "Ceremonies contribute to physical and emotional healing and create a unique atmosphere where you can feel harmony with yourself and the surrounding world. They help you pause, relax, and enjoy the moment, forgetting about stress and worries. Visiting our ceremonies will provide not only physical relaxation but also spiritual renewal, helping you feel happier and healthier.",
+      "image": "../../image/category/caption.jpg",
+      "moreInfoUrl": "/ceremonies.html"
+    }
+  ],
+  "learnMore": "Learn More"
+}

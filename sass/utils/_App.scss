@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-family-Manrope);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  // background-color: rgb(255, 255, 255);
+  background: #adb59f;
+}
+
+.Main {
+  flex: 1 1 auto;
+}
+
+.Main_Page {
+  flex: 1 1 auto;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Block_content {
+  margin: 0 auto;
+  padding: 20px 0 20px 0;
+  width: 80%;
+}
+
+.Block_info_content {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.Active {
+  border-radius: 16px;
+  background: rgba(248, 246, 244, 0.5) !important;
+}
+
+.Active_Gallery {
+  border-radius: 16px;
+  background: #c0a494 !important;
+}
+
+.Background_Categories {
+  background-color: #959a8a;
+}
+
+.Background_Cafe_Categories {
+  background: rgba(149, 154, 138);
+}
+
+.Background_Main_Page_Footer {
+  background-color: rgba(149, 154, 138, 0.8);
+}
+
+.Background_Blog_News_Categories {
+  background: #afb5a1;
+}
+
+.Background_Gallery_Categories {
+  background: #9c8273;
+}
+
+.Background_Admin_Page {
+  background: #adb59f;
+}

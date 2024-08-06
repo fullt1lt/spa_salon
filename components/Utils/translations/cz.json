@@ -1,0 +1,54 @@
+{
+  "language": "CZ",
+  "blogNews": "Novinky a blog",
+  "gallery": "Fotogalerie",
+  "cafe": "Kavárna",
+  "signUp": "Zaregistrovat se",
+  "spaTherapy": "SPA terapie",
+  "momentsOfPleasure": "Dopřejte si chvíle potěšení",
+  "contacts": "Kontakty",
+  "aboutUsHeader": "O nás",
+  "aboutUsText1": "Vítejte v našem jedinečném zařízení, kde je každý kout naplněn atmosférou útulnosti a relaxace. Zde můžete zapomenout na hluk města a každodenní starosti, ponořit se do světa přání a potěšení. Naším posláním je dát vám nejen příjemné chvíle, ale také pečovat o vaši pohodu a zdraví. Jste hostem v našem světě a jsme připraveni udělat vše pro vaši harmonii a potěšení.",
+  "aboutUsText2": "Vytvořili jsme atmosféru, kde se budete cítit výjimečně, kde se každý doušek kávy a lázeňský rituál stane magickou chvílí pro vás.",
+  "aboutUsText3": "Pro nás je každý host jedinečný, a proto nabízíme individuální programy lázeňských procedur a personalizované kávové nápoje.",
+  "aboutUsText4": "Nabízíme širokou škálu lázeňských procedur, od masáží po exkluzivní zábaly, stejně jako různé parní lázně a obřady.",
+  "philosophyHeader": "Filozofie",
+  "ecoStrategiesTitle": "Eko strategie",
+  "ecoStrategiesText": "Implementujeme ekologicky šetrné technologie a používáme přírodní, organické produkty, abychom zajistili nejen účinnost procedur, ale i bezpečnost pro životní prostředí. Naše inovativní řešení pomáhají snížit dopad na přírodu a uchovat její krásu pro budoucí generace.",
+  "professionalCareTitle": "Profesionální péče",
+  "professionalCareText": "Kvalifikovaní specialisté jsou si vědomi nejnovějších trendů a technik. Rozumí jedinečným potřebám klienta a jsou vždy připraveni poskytnout individuální doporučení a vysoce kvalitní služby. Pracují pilně, aby zajistili nejlepší výsledky a nezapomenutelné dojmy z každé návštěvy našeho lázeňského salonu.",
+  "individualApproachTitle": "Individuální přístup",
+  "individualApproachText": "Naši specialisté nabízejí individuální přístup ke každému klientovi, zohledňují všechny vlastnosti vaší pokožky a vyvíjejí unikátní programy péče přizpůsobené vašim potřebám. Tato kombinace umožňuje dosáhnout nejlepších výsledků a zajišťuje maximální efekt procedur.",
+  "servicesHeader": "Služby",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Masáže",
+      "description": "Naše masáže jsou unikátní kombinací tradičních a moderních technik. Od klasických po thajské, sportovní a aromaterapeutické masáže - každá procedura je zaměřena na uvolnění svalového napětí, zlepšení krevního oběhu a celkové pohody. Důvěřujte našim zkušeným masérům a pocítíte hlubokou relaxaci.",
+      "image": "../../image/category/Massage.png",
+      "moreInfoUrl": "/massage.html"
+    },
+    {
+      "id": 2,
+      "name": "Peelingy",
+      "description": "Peeling je kosmetická procedura zaměřená na odstranění horní vrstvy mrtvých kožních buněk ke zlepšení její textury, vzhledu a celkového stavu. Hlavní výhodou procedury je exfoliace pokožky, která stimuluje její obnovu a regeneraci. Výběr peelingu závisí na individuálních potřebách pokožky a očekávaných výsledcích.",
+      "image": "../../image/category/peeling.jpg",
+      "moreInfoUrl": "/peelings.html"
+    },
+    {
+      "id": 3,
+      "name": "Propařování a zábaly",
+      "description": "V našem lázeňském komplexu nabízíme několik druhů propařování a zábalů, využíváme pouze přírodní esenciální oleje a bylinky, které zvyšují účinek procedur a poskytují příjemné vůně. Naši profesionální specialisté vám zajistí pohodlí a relaxaci během procedur, s ohledem na všechna vaše přání. Během zábalu se na tělo aplikují speciální směsi přírodních složek, jako jsou řasy, jíly, med, čokoláda nebo esenciální oleje, a poté se tělo zabalí do fólie nebo speciálních látek.",
+      "image": "../../image/category/baths.jpg",
+      "moreInfoUrl": "/steaming_wrapping.html"
+    },
+    {
+      "id": 4,
+      "name": "Ceremonie",
+      "description": "Ceremonie přispívají k fyzickému a emočnímu uzdravení a vytvářejí jedinečnou atmosféru, kde můžete pocítit harmonii se sebou a okolním světem. Pomáhají vám zastavit se, uvolnit a užít si chvíle, zapomenout na stresy a starosti. Návštěvou našich ceremonií získáte nejen fyzické uvolnění, ale i duchovní obnovu, která vám pomůže cítit se šťastněji a zdravěji.",
+      "image": "../../image/category/caption.jpg",
+      "moreInfoUrl": "/ceremonies.html"
+    }
+  ],
+  "learnMore": "Zjistěte více"
+}
