@@ -12,7 +12,7 @@ export function Header() {
           <li class="Main_Header_info">
             <ul class="Main_Header_info_list">
               <li class="Main_info_logo">
-                <a href="index.html" class="Main_info_link">
+                <a href="#" class="Main_info_link" data-section="main">
                   <img src="${Logo}" alt="" class="logo">
                 </a>
                 <span class="Main_info_link">Therapy Cup Spa</span>
@@ -23,9 +23,15 @@ export function Header() {
             <ul class="Main_Header_navigation_list">
               <li class="Navigation_list_nav">
                 <ul class="navigation_list_nav_list">
-                  <li class="Main_Header_navigation_item"><a href="blog_news.html" data-language="blogNews">Новини i блог</a></li>
-                  <li class="Main_Header_navigation_item"><a href="gallery.html" data-language="gallery">Фотогалерея</a></li>
-                  <li class="Main_Header_navigation_item"><a href="cafe.html" data-language="cafe">Кав’ярня</a></li>
+                  <li class="Main_Header_navigation_item">
+                      <a href="#" data-language="blogNews" data-section="blog">Новини i блог</a>
+                  </li>
+                  <li class="Main_Header_navigation_item">
+                      <a href="#" data-language="gallery" data-section="gallery">Фотогалерея</a>
+                  </li>
+                  <li class="Main_Header_navigation_item">
+                      <a href="#" data-language="cafe" data-section="cafe">Кав’ярня</a>
+                  </li>
                 </ul>
               </li>
               <li class="Main_Header_navigation_contacts">

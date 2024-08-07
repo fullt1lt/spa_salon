@@ -1,4 +1,3 @@
-// Импортируйте JSON файлы
 import enTranslations from "./translations/en.json";
 import ukTranslations from "./translations/uk.json";
 import czTranslations from "./translations/cz.json";
@@ -37,9 +36,38 @@ function updateText() {
   });
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-  updateText();
-});
+function initializeLanguageSwitcher() {
+  const languageButton = document.querySelector(".language-button");
+  const languageMenu = document.querySelector(".language-menu");
+
+  if (languageButton && languageMenu) {
+    languageButton.addEventListener("click", (event) => {
+      event.stopPropagation();
+      languageMenu.style.display =
+        languageMenu.style.display === "none" ? "flex" : "none";
+      languageButton.style.display = "none";
+    });
+
+    document.querySelectorAll(".language-menu-item").forEach((item) => {
+      item.addEventListener("click", (event) => {
+        const language = event.target.getAttribute("data-lang");
+        changeLanguage(language);
+        languageMenu.style.display = "none";
+        languageButton.textContent = language.toUpperCase();
+        languageButton.style.display = "flex";
+      });
+    });
+
+    document.addEventListener("click", (event) => {
+      if (
+        !languageButton.contains(event.target) &&
+        !languageMenu.contains(event.target)
+      ) {
+        languageMenu.style.display = "none";
+      }
+    });
+  }
+}
 
 function categoriesUpdate(key, translationData, element) {
   const [_, fieldWithId] = key.split(".");
@@ -69,4 +97,4 @@ function therapistUpdate(key, translationData, element) {
   }
 }
 
-export { changeLanguage, updateText };
+export { changeLanguage, updateText, initializeLanguageSwitcher };

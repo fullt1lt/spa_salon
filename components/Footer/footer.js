@@ -22,14 +22,14 @@ export function Footer() {
                 <ul class="Main_Footer_navigation_list">
                     <li class="Navigation_list_nav">
                         <ul class="navigation_list_nav_list">
-                            <li class="Main_Footer_navigation_item">
-                                <a href="{% url 'blog_news' %}" data-language="blogNews">Новини i блог</a>
+                            <li class="Main_Header_navigation_item">
+                                <a href="#" data-language="blogNews" data-section="blog">Новини i блог</a>
                             </li>
-                            <li class="Main_Footer_navigation_item">
-                                <a href="{% url 'gallery' %}" data-language="gallery">Фотогалерея</a>
+                            <li class="Main_Header_navigation_item">
+                                <a href="#" data-language="gallery" data-section="gallery">Фотогалерея</a>
                             </li>
-                            <li class="Main_Footer_navigation_item">
-                                <a href="{% url 'cafe' %}" data-language="cafe">Кав’ярня</a>
+                            <li class="Main_Header_navigation_item">
+                                <a href="#" data-language="cafe" data-section="cafe">Кав’ярня</a>
                             </li>
                         </ul>
                     </li>
@@ -45,7 +45,7 @@ export function Footer() {
             <li class="Main_Footer_info">
                 <ul class="Main_Footer_info_list">
                     <li class="Main_info_logo">
-                        <a href="{% url 'index' %}" class="Main_info_link">
+                        <a href="#" class="Main_info_link" data-section="main">
                             <img src="${Logo}" alt="" class="logo">
                         </a>
                         <span class="Main_info_link">

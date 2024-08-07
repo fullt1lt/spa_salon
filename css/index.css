@@ -1279,6 +1279,7 @@ a {
   letter-spacing: 1.56px;
   text-transform: uppercase;
   background-color: transparent;
+  cursor: pointer;
 }
 .Main_Order .Main_Order_list .Order_main_list .Review_image_item {
   display: -webkit-box;
@@ -2763,10 +2764,10 @@ a {
       -ms-flex-pack: center;
           justify-content: center;
 }
-.Main_Footer .Main_Footer_list .Main_Footer_navigation .Main_Footer_navigation_list .Navigation_list_nav .navigation_list_nav_list .Main_Footer_navigation_item {
+.Main_Footer .Main_Footer_list .Main_Footer_navigation .Main_Footer_navigation_list .Navigation_list_nav .navigation_list_nav_list .Main_Header_navigation_item {
   margin-right: 80px;
 }
-.Main_Footer .Main_Footer_list .Main_Footer_navigation .Main_Footer_navigation_list .Navigation_list_nav .navigation_list_nav_list .Main_Footer_navigation_item a {
+.Main_Footer .Main_Footer_list .Main_Footer_navigation .Main_Footer_navigation_list .Navigation_list_nav .navigation_list_nav_list .Main_Header_navigation_item a {
   color: var(--black-color);
   font-family: Manrope;
   font-size: 16px;
@@ -2774,7 +2775,7 @@ a {
   font-weight: 600;
   line-height: normal;
 }
-.Main_Footer .Main_Footer_list .Main_Footer_navigation .Main_Footer_navigation_list .Navigation_list_nav .navigation_list_nav_list .Main_Footer_navigation_item a:hover {
+.Main_Footer .Main_Footer_list .Main_Footer_navigation .Main_Footer_navigation_list .Navigation_list_nav .navigation_list_nav_list .Main_Header_navigation_item a:hover {
   color: var(--button-hover);
 }
 .Main_Footer .Main_Footer_list .Main_Footer_navigation .Main_Footer_navigation_list .Main_Footer_navigation_contacts {

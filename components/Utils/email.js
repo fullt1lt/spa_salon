@@ -5,7 +5,7 @@
 
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("order-form");
-
+  console.log("fsfsfsf");
   form.addEventListener("submit", function (event) {
     event.preventDefault();
 
