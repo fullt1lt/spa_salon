@@ -13,8 +13,8 @@ function ChangeHeader(section) {
       return HeaderSecond(section);
     case "gallery":
       return HeaderMain();
-    case "cafe":
-      return HeaderMain();
+    case "HeaderCafe":
+      return HeaderSecond(section);
     case "main":
       return HeaderMain();
     default:

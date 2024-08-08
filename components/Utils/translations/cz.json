@@ -170,5 +170,114 @@
       "blogDescription": "Pro všechny nové klienty našeho SPA-salonu platí speciální nabídka: 50% sleva na první návštěvu. Využijte této příležitosti a objevte svět luxusní relaxace.",
       "blogtextImg": "../../image/blogNews/news_small_image_3.png"
     }
+  ],
+  "HeaderCafe": ["Dezerty", "Káva", "Speciální nabídky", "Čaje"],
+  "mainCafe": {
+    "mainCafeHeader": "Vítejte v naší kavárně v SPA-salonu!",
+    "mainCafeText": "Ponořte se do pocitu luxusu a spokojenosti, užijte si aromatickou kávu v útulné atmosféře našeho podniku. V naší kavárně si můžete vychutnat široký výběr čerstvě pražených kávových zrn, nejlepší čajové odrůdy a lahodné dezerty - to vše pro vaše odpočinek a potěšení. Navštivte nás dnes a dopřejte si chvíle potěšení a relaxace!"
+  },
+  "Desserts": [
+    {
+      "id": 1,
+      "name": "Cheesecake 'Berry Fantasy'",
+      "price": "67 CZK",
+      "ingredients": "Ingredience: mascarpone sýr, sušenkový základ, ovocná omáčka z borůvek a malin.",
+      "description": "Popis: Jemný cheesecake s osvěžující ovocnou omáčkou.",
+      "image": "../../image/cafe/chiscake.png"
+    },
+    {
+      "id": 2,
+      "name": "Dort 'Citrónové Potěšení'",
+      "price": "60 CZK",
+      "ingredients": "Ingredience: citrónový krém, křehké těsto, pusinky.",
+      "description": "Popis: Lehký citrónový dort s křupavým křehkým těstem a jemnými pusinkami.",
+      "image": "../../image/cafe/lemon_cake.png"
+    },
+    {
+      "id": 3,
+      "name": "Čokoládový Fondán",
+      "price": "73 CZK",
+      "ingredients": "Ingredience: hořká čokoláda, máslo, vejce, cukr.",
+      "description": "Popis: Horký dezert s tekutou čokoládovou náplní, skutečný ráj pro milovníky čokolády.",
+      "image": "../../image/cafe/Chocolate_fondant.png"
+    }
+  ],
+  "Coffee": [
+    {
+      "id": 1,
+      "name": "Espresso 'Krémová čokoláda'",
+      "price": "41 Kč",
+      "ingredients": "Složení: čerstvě pražená zrna arabiky, tmavá čokoláda, smetana.",
+      "description": "Popis: Intenzivní espresso s přídavkem tmavé čokolády a smetany pro jemnou chuť.",
+      "image": "../../image/cafe/espresso.png"
+    },
+    {
+      "id": 2,
+      "name": "Latte 'Karamelová lahůdka'",
+      "price": "51 Kč",
+      "ingredients": "Složení: espresso, mléko, karamelový sirup.",
+      "description": "Popis: Jemné latte se sladkými tóny karamelu, což jej činí ideálním pro každou denní dobu.",
+      "image": "../../image/cafe/Latte.png"
+    },
+    {
+      "id": 3,
+      "name": "Cappuccino 'Vanilkový ráj'",
+      "price": "47 Kč",
+      "ingredients": "Složení: espresso, mléko, vanilkový sirup.",
+      "description": "Popis: Klasické cappuccino s přidáním vanilkového sirupu pro vytříbenou chuť.",
+      "image": "../../image/cafe/cappuccino.png"
+    }
+  ],
+  "specialOffers": [
+    {
+      "id": 1,
+      "name": "Sladká snídaně",
+      "price": "115 Kč",
+      "ingredients": "Složení: káva nebo čaj dle výběru, cheesecake 'Berry Fantasy', čerstvě vymačkaná šťáva.",
+      "description": "Popis: Ideální snídaně pro začátek dne s radostí a potěšením.",
+      "image": "../../image/cafe/sweet_breakfast.png"
+    },
+    {
+      "id": 2,
+      "name": "Odpolední čaj",
+      "price": "100 Kč",
+      "ingredients": "Složení: jakýkoliv čaj, dort 'Lemon Delight', sezónní ovoce.",
+      "description": "Popis: Lehké odpolední občerstvení s osvěžujícím čajem a chutným dezertem.",
+      "image": "../../image/cafe/afternoon_tea.png"
+    },
+    {
+      "id": 3,
+      "name": "Večerní lahůdka",
+      "price": "150 Kč",
+      "ingredients": "Složení: káva nebo čaj dle výběru, čokoládový fondant.",
+      "description": "Popis: Večerní lahůdka s elegantní kombinací čokolády.",
+      "image": "../../image/cafe/evening_delight.png"
+    }
+  ],
+  "tea": [
+    {
+      "id": 1,
+      "name": "Levandulový klid",
+      "price": "44 Kč",
+      "ingredients": "Složení: květy levandule, máta, meduňka, heřmánek.",
+      "description": "Popis: Aromatický bylinný čaj, který pomáhá relaxovat a ulevit od stresu.",
+      "image": "../../image/cafe/lavender_tea.png"
+    },
+    {
+      "id": 2,
+      "name": "Citrusový náboj",
+      "price": "47 Kč",
+      "ingredients": "Složení: citronová kůra, pomerančová kůra, zázvor, zelený čaj.",
+      "description": "Popis: Osvěžující čaj s citrusovými tóny a lehkou pikantní chutí zázvoru.",
+      "image": "../../image/cafe/citrus_tea.png"
+    },
+    {
+      "id": 3,
+      "name": "Bobulová symfonie",
+      "price": "50 Kč",
+      "ingredients": "Složení: sušené maliny, borůvky, šípek, ibišek.",
+      "description": "Popis: Sladký čaj s bohatou ovocnou chutí a příjemnou kyselostí.",
+      "image": "../../image/cafe/berry_tea.png"
+    }
   ]
 }

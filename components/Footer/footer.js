@@ -29,7 +29,7 @@ export function Footer() {
                                 <a href="#" data-language="gallery" data-section="gallery">Фотогалерея</a>
                             </li>
                             <li class="Main_Header_navigation_item">
-                                <a href="#" data-language="cafe" data-section="cafe">Кав’ярня</a>
+                                <a href="#" data-language="cafe" data-section="HeaderCafe">Кав’ярня</a>
                             </li>
                         </ul>
                     </li>

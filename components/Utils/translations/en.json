@@ -150,7 +150,7 @@
       "blogtextImg": "../../image/blogNews/blog_small_image_3.png"
     }
   ],
-    "news": [
+  "news": [
     {
       "id": 1,
       "blogHeader": "Special Offer: Discount on Couple Visits",
@@ -171,6 +171,115 @@
       "blogMainImg": "../../image/blogNews/news_main_3.png",
       "blogDescription": "For all new clients of our SPA-salon, there is a special offer: 50% discount on the first visit. Take advantage of this opportunity and discover the world of luxurious relaxation.",
       "blogtextImg": "../../image/blogNews/news_small_image_3.png"
+    }
+  ],
+  "HeaderCafe": ["Desserts", "Coffee", "Special Offers", "Teas"],
+  "mainCafe": {
+    "mainCafeHeader": "Welcome to our coffee shop at the SPA-salon!",
+    "mainCafeText": "Immerse yourself in the feeling of luxury and satisfaction, enjoy aromatic coffee in the cozy atmosphere of our establishment. In our coffee shop, you can enjoy a wide selection of freshly roasted coffee beans, the best tea varieties, and appetizing desserts - all this for your relaxation and pleasure. Visit us today and treat yourself to moments of enjoyment and relaxation!"
+  },
+    "Desserts": [
+    {
+      "id": 1,
+      "name": "Cheesecake 'Berry Fantasy'",
+      "price": "3 USD",
+      "ingredients": "Ingredients: mascarpone cheese, biscuit base, berry sauce with blueberry and raspberry.",
+      "description": "Description: Delicate cheesecake with a refreshing berry sauce.",
+      "image": "../../image/cafe/chiscake.png"
+    },
+    {
+      "id": 2,
+      "name": "Cake 'Lemon Delight'",
+      "price": "2.70 USD",
+      "ingredients": "Ingredients: lemon cream, shortcrust pastry, meringue.",
+      "description": "Description: Light lemon cake with crispy shortcrust pastry and delicate meringue.",
+      "image": "../../image/cafe/lemon_cake.png"
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Fondant",
+      "price": "3.30 USD",
+      "ingredients": "Ingredients: dark chocolate, butter, eggs, sugar.",
+      "description": "Description: Hot dessert with a liquid chocolate filling, a true paradise for chocolate lovers.",
+      "image": "../../image/cafe/Chocolate_fondant.png"
+    }
+  ],
+   "Coffee": [
+    {
+      "id": 1,
+      "name": "Espresso 'Creamy Chocolate'",
+      "price": "1.90 USD",
+      "ingredients": "Ingredients: freshly roasted Arabica beans, dark chocolate, cream.",
+      "description": "Description: An intense espresso with added dark chocolate and cream for a smooth taste.",
+      "image": "../../image/cafe/espresso.png"
+    },
+    {
+      "id": 2,
+      "name": "Latte 'Caramel Delight'",
+      "price": "2.40 USD",
+      "ingredients": "Ingredients: espresso, milk, caramel syrup.",
+      "description": "Description: A soft latte with sweet caramel notes, making it ideal for any time of the day.",
+      "image": "../../image/cafe/Latte.png"
+    },
+    {
+      "id": 3,
+      "name": "Cappuccino 'Vanilla Heaven'",
+      "price": "2.20 USD",
+      "ingredients": "Ingredients: espresso, milk, vanilla syrup.",
+      "description": "Description: Classic cappuccino with added vanilla syrup for a refined taste.",
+      "image": "../../image/cafe/cappuccino.png"
+    }
+  ],
+  "specialOffers": [
+    {
+      "id": 1,
+      "name": "Sweet Breakfast",
+      "price": "5 USD",
+      "ingredients": "Ingredients: coffee or tea of choice, 'Berry Fantasy' cheesecake, freshly squeezed juice.",
+      "description": "Description: The perfect breakfast to start your day with joy and delight.",
+      "image": "../../image/cafe/sweet_breakfast.png"
+    },
+    {
+      "id": 2,
+      "name": "Afternoon Tea",
+      "price": "4 USD",
+      "ingredients": "Ingredients: any tea, 'Lemon Delight' cake, seasonal fruits.",
+      "description": "Description: Light afternoon break with refreshing tea and delicious dessert.",
+      "image": "../../image/cafe/afternoon_tea.png"
+    },
+    {
+      "id": 3,
+      "name": "Evening Delight",
+      "price": "6 USD",
+      "ingredients": "Ingredients: coffee or tea of choice, chocolate fondant.",
+      "description": "Description: Evening delight with an elegant combination of chocolate.",
+      "image": "../../image/cafe/evening_delight.png"
+    }
+  ],
+  "tea": [
+    {
+      "id": 1,
+      "name": "Lavender Calm",
+      "price": "2.00 USD",
+      "ingredients": "Ingredients: lavender flowers, mint, lemon balm, chamomile.",
+      "description": "Description: An aromatic herbal tea that helps to relax and relieve stress.",
+      "image": "../../image/cafe/lavender_tea.png"
+    },
+    {
+      "id": 2,
+      "name": "Citrus Boost",
+      "price": "2.20 USD",
+      "ingredients": "Ingredients: lemon zest, orange zest, ginger, green tea.",
+      "description": "Description: A refreshing tea with citrus notes and a light spicy taste of ginger.",
+      "image": "../../image/cafe/citrus_tea.png"
+    },
+    {
+      "id": 3,
+      "name": "Berry Symphony",
+      "price": "2.30 USD",
+      "ingredients": "Ingredients: dried raspberries, blueberries, rose hips, hibiscus.",
+      "description": "Description: A sweet tea with a rich berry flavor and a pleasant tartness.",
+      "image": "../../image/cafe/berry_tea.png"
     }
   ]
 }

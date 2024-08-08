@@ -4,6 +4,7 @@ import {
   MainBlogNews,
   setupBlogNewsSwitch,
 } from "./components/Main_Blog_News/MainBlogNews";
+import { MainCafe, setupCafeSwitch } from "./components/Main_Cafe/MainCafe";
 
 export function Main(section) {
   let content = ChangeMain(section);
@@ -21,8 +22,9 @@ function ChangeMain(section) {
       return MainBlogNews();
     case "gallery":
       return MainPage();
-    case "cafe":
-      return MainPage();
+    case "HeaderCafe":
+      setTimeout(setupCafeSwitch, 0);
+      return MainCafe();
     case "main":
       return MainPage();
     default:
