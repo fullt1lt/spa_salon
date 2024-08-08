@@ -119,5 +119,56 @@
   "orderText": "Můžete si objednat naše služby zadáním svých údajů",
   "placeholderName": "Vaše jméno",
   "placeholderEmail": "Váš email",
-  "placeholderPhone": "Váš telefon"
+  "placeholderPhone": "Váš telefon",
+  "headerBlogNews": ["Blog", "Novinky"],
+  "mainBlog": {
+    "mainBlogHeader": "Život v harmonii se sebou: Blog a Novinky našeho SPA-salonu",
+    "mainBlogText": "V našem blogu a sekci novinek najdete nejnovější tipy na péči o sebe, postřehy o umění relaxace a všechny nejzajímavější novinky ze života našeho SPA-salonu. Podělte se s námi o své myšlenky a dojmy, učte se a objevujte více o světě krásy a harmonie spolu s naším odborným týmem."
+  },
+  "blogs": [
+    {
+      "id": 1,
+      "blogHeader": "Výhody pravidelných návštěv SPA",
+      "blogMainImg": "../../image/blogNews/blog_main_1.png",
+      "blogDescription": "Úleva od stresu a relaxace: Jak pravidelné procedury pomáhají snižovat hladinu stresu a zlepšovat celkové zdraví. Omlazení pokožky: Role peelingů, masek a zábalů při udržování zdraví a krásy pokožky.",
+      "blogtextImg": "../../image/blogNews/blog_small_image_1.png"
+    },
+    {
+      "id": 2,
+      "blogHeader": "Typy masáží a jejich výhody",
+      "blogMainImg": "../../image/blogNews/blog_main_2.png",
+      "blogDescription": "Lymfatická masáž: Jak pomáhá snižovat otoky a zlepšovat cirkulaci lymfy. Švédská masáž: Základní techniky a přínosy pro tělo. Thajská masáž: Tradiční metody a jejich dopad na tělo.",
+      "blogtextImg": "../../image/blogNews/blog_small_image_2.png"
+    },
+    {
+      "id": 3,
+      "blogHeader": "Peelingy: Jak vybrat ten nejlepší",
+      "blogMainImg": "../../image/blogNews/blog_main_3.png",
+      "blogDescription": "Solný peeling: Výhody a účinnost při odstraňování odumřelých buněk. Kávový peeling: Jak kofein stimuluje a omlazuje pokožku. Cukrový peeling: Jemný a účinný způsob čištění pokožky.",
+      "blogtextImg": "../../image/blogNews/blog_small_image_3.png"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "blogHeader": "Speciální nabídka: Sleva na návštěvy párů",
+      "blogMainImg": "../../image/blogNews/news_main_1.png",
+      "blogDescription": "V červnu spouštíme speciální nabídku pro páry: 20% sleva na všechny párové procedury! Přijďte se svou milovanou osobou a užijte si nezapomenutelné chvíle relaxace.",
+      "blogtextImg": "../../image/blogNews/news_small_image_1.png"
+    },
+    {
+      "id": 2,
+      "blogHeader": "Letní peelingová akce",
+      "blogMainImg": "../../image/blogNews/news_main_2.png",
+      "blogDescription": "Během letní sezóny je zvláště důležité pečovat o svou pokožku. Proto nabízíme 30% slevu na všechny typy peelingů! Nepropásněte příležitost učinit svou pokožku hladkou a zářivou.",
+      "blogtextImg": "../../image/blogNews/news_small_image_2.png"
+    },
+    {
+      "id": 3,
+      "blogHeader": "Speciální nabídka pro nové klienty",
+      "blogMainImg": "../../image/blogNews/news_main_3.png",
+      "blogDescription": "Pro všechny nové klienty našeho SPA-salonu platí speciální nabídka: 50% sleva na první návštěvu. Využijte této příležitosti a objevte svět luxusní relaxace.",
+      "blogtextImg": "../../image/blogNews/news_small_image_3.png"
+    }
+  ]
 }

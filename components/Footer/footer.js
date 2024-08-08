@@ -23,7 +23,7 @@ export function Footer() {
                     <li class="Navigation_list_nav">
                         <ul class="navigation_list_nav_list">
                             <li class="Main_Header_navigation_item">
-                                <a href="#" data-language="blogNews" data-section="blog">Новини i блог</a>
+                                <a href="#" data-language="blogNews" data-section="headerBlogNews">Новини i блог</a>
                             </li>
                             <li class="Main_Header_navigation_item">
                                 <a href="#" data-language="gallery" data-section="gallery">Фотогалерея</a>

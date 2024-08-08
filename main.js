@@ -1,7 +1,6 @@
-import { Header } from "./components/Header/header";
+import { Header } from "./components/Header/Header";
 import { Footer } from "./components/Footer/footer";
 import { Main } from "./components/Main/Main";
-import { Main_type_categories } from "./components/Main/components/Type_categories/Main_type_categories";
 import {
   initializeLanguageSwitcher,
   updateText,
@@ -9,10 +8,10 @@ import {
 import { setupFormSubmission } from "./components/Utils/setupFormSubmission";
 import "./css/index.min.css";
 
-function renderApp(content) {
+function renderApp(mainContent, headerContent) {
   document.querySelector("#app").innerHTML = `
-    ${Header()}
-    ${content}
+    ${headerContent}
+    ${mainContent}
     ${Footer()}
   `;
   setupNavigation();
@@ -25,26 +24,9 @@ function setupNavigation() {
     link.addEventListener("click", (event) => {
       event.preventDefault();
       const section = event.target.dataset.section;
-      let newMainContent;
-
-      switch (section) {
-        case "blog":
-          newMainContent = Main_type_categories();
-          break;
-        case "gallery":
-          newMainContent = Main();
-          break;
-        case "cafe":
-          newMainContent = Main();
-          break;
-        case "main":
-          newMainContent = Main();
-          break;
-        default:
-          newMainContent = Main();
-      }
-
-      renderApp(newMainContent);
+      let newMainContent = Main(section);
+      let newHeaderContent = Header(section);
+      renderApp(newMainContent, newHeaderContent);
     });
   });
 
@@ -52,5 +34,5 @@ function setupNavigation() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  renderApp(Main());
+  renderApp(Main(), Header());
 });

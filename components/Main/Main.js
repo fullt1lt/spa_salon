@@ -1,9 +1,31 @@
 import { MainPage } from "./components/Main_page/MainPage";
+import { Main_type_categories } from "./components/Type_categories/Main_type_categories";
+import {
+  MainBlogNews,
+  setupBlogNewsSwitch,
+} from "./components/Main_Blog_News/MainBlogNews";
 
-export function Main() {
+export function Main(section) {
+  let content = ChangeMain(section);
   return `
-        <main class="Main_Page">
-            ${MainPage()}
-        </main>
-    `;
+    <main class="Main_Page" id="content-container">
+        ${content}
+    </main>
+  `;
+}
+
+function ChangeMain(section) {
+  switch (section) {
+    case "headerBlogNews":
+      setTimeout(setupBlogNewsSwitch, 0);
+      return MainBlogNews();
+    case "gallery":
+      return MainPage();
+    case "cafe":
+      return MainPage();
+    case "main":
+      return MainPage();
+    default:
+      return MainPage();
+  }
 }

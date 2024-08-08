@@ -118,5 +118,59 @@
   "orderText": "You can book our services by leaving your details",
   "placeholderName": "Your name",
   "placeholderEmail": "Your email",
-  "placeholderPhone": "Your phone"
+  "placeholderPhone": "Your phone",
+  "headerBlogNews": ["Blog", "News"],
+  "mainBlog": {
+    "mainBlogHeader": "Life in harmony with yourself: Blog and News of our SPA-salon",
+    "mainBlogText": "In our blog and news section, you will find the latest self-care tips, insights into the art of relaxation, and all the most interesting news from the life of our SPA-salon. Share your thoughts and impressions with us, learn and discover more about the world of beauty and harmony with our expert team."
+  },
+  "blogs": [
+    {
+      "id": 1,
+      "blogHeader": "Benefits of Regular SPA Visits",
+      "blogMainImg": "../../image/blogNews/blog_main_1.png",
+
+      "blogDescription": "Stress Relief and Relaxation: How regular procedures help reduce stress levels and improve overall health. Skin rejuvenation: The role of peels, masks, and wraps in maintaining skin health and beauty.",
+      "blogtextImg": "../../image/blogNews/blog_small_image_1.png"
+    },
+    {
+      "id": 2,
+      "blogHeader": "Types of Massages and Their Benefits",
+      "blogMainImg": "../../image/blogNews/blog_main_2.png",
+
+      "blogDescription": "Lymphatic Drainage Massage: How it helps reduce swelling and improve lymph circulation. Swedish massage: Basic techniques and benefits for the body. Thai massage: Traditional methods and their impact on the body.",
+      "blogtextImg": "../../image/blogNews/blog_small_image_2.png"
+    },
+    {
+      "id": 3,
+      "blogHeader": "Peelings: How to Choose the Best",
+      "blogMainImg": "../../image/blogNews/blog_main_3.png",
+
+      "blogDescription": "Salt Scrub: Benefits and effectiveness in removing dead cells. Coffee scrub: How caffeine stimulates and rejuvenates the skin. Sugar scrub: A gentle and effective way to cleanse the skin.",
+      "blogtextImg": "../../image/blogNews/blog_small_image_3.png"
+    }
+  ],
+    "news": [
+    {
+      "id": 1,
+      "blogHeader": "Special Offer: Discount on Couple Visits",
+      "blogMainImg": "../../image/blogNews/news_main_1.png",
+      "blogDescription": "In June, we launch a special offer for couples: 20% discount on all couple procedures! Come with your loved one and enjoy unforgettable moments of relaxation.",
+      "blogtextImg": "../../image/blogNews/news_small_image_1.png"
+    },
+    {
+      "id": 2,
+      "blogHeader": "Summer Peeling Promotion",
+      "blogMainImg": "../../image/blogNews/news_main_2.png",
+      "blogDescription": "During the summer season, it is especially important to take care of your skin. That's why we offer a 30% discount on all types of peels! Don't miss the opportunity to make your skin smooth and radiant.",
+      "blogtextImg": "../../image/blogNews/news_small_image_2.png"
+    },
+    {
+      "id": 3,
+      "blogHeader": "Special Offer for New Clients",
+      "blogMainImg": "../../image/blogNews/news_main_3.png",
+      "blogDescription": "For all new clients of our SPA-salon, there is a special offer: 50% discount on the first visit. Take advantage of this opportunity and discover the world of luxurious relaxation.",
+      "blogtextImg": "../../image/blogNews/news_small_image_3.png"
+    }
+  ]
 }
