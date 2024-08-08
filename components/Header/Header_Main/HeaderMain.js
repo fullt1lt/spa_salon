@@ -27,7 +27,7 @@ export function HeaderMain() {
                       <a href="#" data-language="blogNews" data-section="headerBlogNews">Новини i блог</a>
                   </li>
                   <li class="Main_Header_navigation_item">
-                      <a href="#" data-language="gallery" data-section="gallery">Фотогалерея</a>
+                      <a href="#" data-language="gallery" data-section="HeaderGallery">Фотогалерея</a>
                   </li>
                   <li class="Main_Header_navigation_item">
                       <a href="#" data-language="cafe" data-section="HeaderCafe">Кав’ярня</a>

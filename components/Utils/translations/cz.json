@@ -279,5 +279,42 @@
       "description": "Popis: Sladký čaj s bohatou ovocnou chutí a příjemnou kyselostí.",
       "image": "../../image/cafe/berry_tea.png"
     }
+  ],
+  "HeaderGallery": ["Koupel", "Kavárna", "Proces", "Spa"],
+  "mainGallery": {
+    "mainGalleryHeader": "Ponořte se do světa luxusní harmonie: Naše fotogalerie SPA procedur",
+    "mainGalleryText": "Pociťte emoci luxusu a relaxace při prohlížení našich fotografií atmosféry SPA. Dopřejte si únik z každodenní rutiny a užívejte si krásu a luxus každého detailu našich procedur a vybavení."
+  },
+  "Bath": [
+    { "id": 1, "image": "../../image/gallery/gallery_bath_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_bath_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_bath_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_bath_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_bath_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_bath_6.png" }
+  ],
+  "Cafe": [
+    { "id": 1, "image": "../../image/gallery/gallery_cafe_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_cafe_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_cafe_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_cafe_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_cafe_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_cafe_6.png" }
+  ],
+  "Process": [
+    { "id": 1, "image": "../../image/gallery/gallery_proces_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_proces_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_proces_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_proces_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_proces_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_proces_6.png" }
+  ],
+  "Spa": [
+    { "id": 1, "image": "../../image/gallery/gallery_spa_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_spa_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_spa_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_spa_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_spa_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_spa_6.png" }
   ]
 }

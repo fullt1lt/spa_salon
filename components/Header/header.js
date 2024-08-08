@@ -11,8 +11,8 @@ function ChangeHeader(section) {
   switch (section) {
     case "headerBlogNews":
       return HeaderSecond(section);
-    case "gallery":
-      return HeaderMain();
+    case "HeaderGallery":
+      return HeaderSecond(section);
     case "HeaderCafe":
       return HeaderSecond(section);
     case "main":

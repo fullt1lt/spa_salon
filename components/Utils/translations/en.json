@@ -178,7 +178,7 @@
     "mainCafeHeader": "Welcome to our coffee shop at the SPA-salon!",
     "mainCafeText": "Immerse yourself in the feeling of luxury and satisfaction, enjoy aromatic coffee in the cozy atmosphere of our establishment. In our coffee shop, you can enjoy a wide selection of freshly roasted coffee beans, the best tea varieties, and appetizing desserts - all this for your relaxation and pleasure. Visit us today and treat yourself to moments of enjoyment and relaxation!"
   },
-    "Desserts": [
+  "Desserts": [
     {
       "id": 1,
       "name": "Cheesecake 'Berry Fantasy'",
@@ -204,7 +204,7 @@
       "image": "../../image/cafe/Chocolate_fondant.png"
     }
   ],
-   "Coffee": [
+  "Coffee": [
     {
       "id": 1,
       "name": "Espresso 'Creamy Chocolate'",
@@ -281,5 +281,42 @@
       "description": "Description: A sweet tea with a rich berry flavor and a pleasant tartness.",
       "image": "../../image/cafe/berry_tea.png"
     }
+  ],
+  "HeaderGallery": ["Bath", "Cafe", "Process", "Spa"],
+  "mainGallery": {
+    "mainGalleryHeader": "Immerse Yourself in the World of Luxurious Harmony: Our SPA Procedures Photo Gallery",
+    "mainGalleryText": "Feel the emotion of luxury and relaxation while viewing our photos of the SPA atmosphere. Allow yourself to escape from the daily routine and enjoy the beauty and luxury of every detail of our procedures and furnishings."
+  },
+  "Bath": [
+    { "id": 1, "image": "../../image/gallery/gallery_bath_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_bath_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_bath_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_bath_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_bath_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_bath_6.png" }
+  ],
+  "Cafe": [
+    { "id": 1, "image": "../../image/gallery/gallery_cafe_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_cafe_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_cafe_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_cafe_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_cafe_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_cafe_6.png" }
+  ],
+  "Process": [
+    { "id": 1, "image": "../../image/gallery/gallery_proces_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_proces_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_proces_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_proces_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_proces_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_proces_6.png" }
+  ],
+  "Spa": [
+    { "id": 1, "image": "../../image/gallery/gallery_spa_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_spa_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_spa_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_spa_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_spa_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_spa_6.png" }
   ]
 }

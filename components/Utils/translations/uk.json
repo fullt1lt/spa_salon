@@ -228,7 +228,7 @@
       "image": "../../image/cafe/cappuccino.png"
     }
   ],
- "specialOffers": [
+  "specialOffers": [
     {
       "id": 1,
       "name": "Солодкий сніданок",
@@ -279,5 +279,42 @@
       "description": "Опис: Солодкуватий чай з насиченим ягідним смаком та приємною кислинкою.",
       "image": "../../image/cafe/berry_tea.png"
     }
+  ],
+  "HeaderGallery": ["Баня", "Кав'ярня", "Процес", "Спа"],
+  "mainGallery": {
+    "mainGalleryHeader": "Занурьтесь в світ розкішної гармонії: Наша Фотогалерея СПА-процедур",
+    "mainGalleryText": "Відчуйте емоцію розкоші та відпочинку, переглядаючи наші фотографії з обстановкою нашого СПА. Дозвольте собі відірватися від буденності та насолодитися красою і розкішшю кожної деталі наших процедур та облаштування."
+  },
+  "Bath": [
+    { "id": 1, "image": "../../image/gallery/gallery_bath_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_bath_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_bath_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_bath_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_bath_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_bath_6.png" }
+  ],
+  "Cafe": [
+    { "id": 1, "image": "../../image/gallery/gallery_cafe_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_cafe_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_cafe_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_cafe_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_cafe_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_cafe_6.png" }
+  ],
+  "Process": [
+    { "id": 1, "image": "../../image/gallery/gallery_proces_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_proces_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_proces_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_proces_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_proces_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_proces_6.png" }
+  ],
+  "Spa": [
+    { "id": 1, "image": "../../image/gallery/gallery_spa_1.png" },
+    { "id": 2, "image": "../../image/gallery/gallery_spa_2.png" },
+    { "id": 3, "image": "../../image/gallery/gallery_spa_3.png" },
+    { "id": 4, "image": "../../image/gallery/gallery_spa_4.png" },
+    { "id": 5, "image": "../../image/gallery/gallery_spa_5.png" },
+    { "id": 6, "image": "../../image/gallery/gallery_spa_6.png" }
   ]
 }

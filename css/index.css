@@ -1766,6 +1766,7 @@ a {
 }
 .Gallery_main .Gallery_main_list .Gallery_main_header {
   margin-top: 54px;
+  width: 60%;
 }
 .Gallery_main .Gallery_main_list .Gallery_main_header h1 {
   color: #0c0c0c;
