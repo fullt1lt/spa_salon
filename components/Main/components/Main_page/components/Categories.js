@@ -21,6 +21,9 @@ export function Categories() {
       servicesHeader = translations_en.servicesHeader;
       break;
   }
+
+  const englishCategories = translations_en.categories;
+
   return `
     <section class="Main_Spa_Categories Block_content">
       <ul class="Main_Spa_Categories_list">
@@ -31,27 +34,28 @@ export function Categories() {
         <li class="Main_Spa_Categories_content">
           <ul class="Main_Spa_Categories_content_list">
             ${categories
-              .map(
-                (category) => `
-              <li class="Main_Spa_Categories_content_item">
-                <ul class="Categories_content_item_list">
-                  <li class="item_image">
-                    <img src="${category.image}" alt="${category.name}" class="Category_img">
+              .map((category, index) => {
+                const englishCategory = englishCategories[index];
+                return `
+                  <li class="Main_Spa_Categories_content_item">
+                    <ul class="Categories_content_item_list">
+                      <li class="item_image">
+                        <img src="${category.image}" alt="${category.name}" class="Category_img">
+                      </li>
+                      <li class="item_header">
+                        <h2 data-language="categories.name-${category.id}">${category.name}</h2>
+                      </li>
+                      <li class="item_category_description">
+                        <span class="item_description_text" data-language="categories.description-${category.id}">${category.description}</span>
+                      </li>
+                      <li class="item_info">
+                        <a href="${category.moreInfoUrl}" class="Category_More_Info" data-language="learnMore"  data-section="${englishCategory.name}">Дізнатися більше</a>
+                        <a href="#order-form-section" class="Category_Link_Sign_Up" data-language="signUp">Записатись</a>
+                      </li>
+                    </ul>
                   </li>
-                  <li class="item_header">
-                    <h2 data-language="categories.name-${category.id}">${category.name}</h2>
-                  </li>
-                  <li class="item_category_description">
-                    <span class="item_description_text" data-language="categories.description-${category.id}">${category.description}</span>
-                  </li>
-                  <li class="item_info">
-                    <a href="${category.moreInfoUrl}" class="Category_More_Info" data-language="learnMore">Дізнатися більше</a>
-                    <a href="#order-form-section" class="Category_Link_Sign_Up" data-language="signUp">Записатись</a>
-                  </li>
-                </ul>
-              </li>
-            `
-              )
+                `;
+              })
               .join("")}
           </ul>
         </li>

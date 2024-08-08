@@ -316,5 +316,121 @@
     { "id": 4, "image": "../../image/gallery/gallery_spa_4.png" },
     { "id": 5, "image": "../../image/gallery/gallery_spa_5.png" },
     { "id": 6, "image": "../../image/gallery/gallery_spa_6.png" }
+  ],
+  "Massages": ["Masáže", "Peelingy", "Propařování a zábaly", "Ceremonie"],
+  "Peelings": ["Masáže", "Peelingy", "Propařování a zábaly", "Ceremonie"],
+  "Steaming and Wrapping": ["Masáže", "Peelingy", "Propařování a zábaly", "Ceremonie"],
+  "Ceremonies": ["Masáže", "Peelingy", "Propařování a zábaly", "Ceremonie"],
+  "typeMassages": [
+    {
+      "id": 1,
+      "name": "Klasická masáž",
+      "price": "1600/2150 Kč",
+      "description": "Univerzální technika pro uvolnění svalů, odstranění napětí a zlepšení krevního oběhu. Ideální pro regeneraci celého těla a nalezení rovnováhy mezi fyzickým a emocionálním stavem. Zahrnuje prvky manuální terapie svalů a tkání těla.",
+      "duration": "Délka: 60/90 min",
+      "image": "../../image/type_categories/classic_massage.png"
+    },
+    {
+      "id": 2,
+      "name": "Thajská masáž",
+      "price": "1650/2200 Kč",
+      "description": "Tradiční masážní technika, která kombinuje prvky akupunktury, jógy a pružného protažení svalů a pojivových tkání. Tato technika je zaměřena na obnovu energetické rovnováhy v těle, odstranění napětí a zlepšení flexibility.",
+      "duration": "Délka: 60/90 min",
+      "image": "../../image/type_categories/thai_massage.png"
+    },
+    {
+      "id": 3,
+      "name": "Sportovní masáž",
+      "price": "1650/2400 Kč",
+      "description": "Speciální forma masáže vyvinutá pro sportovce ke snížení únavy a přípravě těla na fyzickou zátěž. Používá se k prevenci úrazů, zlepšení svalového tonusu a podpoře regenerace po intenzivním tréninku.",
+      "duration": "Délka: 90/120 min",
+      "image": "../../image/type_categories/sports_massage.png"
+    },
+    {
+      "id": 4,
+      "name": "Aromaterapeutická masáž",
+      "price": "1450/2100 Kč",
+      "description": "Tato masážní technika využívá éterické oleje k maximální relaxaci a terapeutickému účinku. Éterické oleje jsou vybírány individuálně, pomáhají snižovat stres, zlepšovat náladu a zvyšovat celkovou pohodu těla.",
+      "duration": "Délka: 60/90 min",
+      "image": "../../image/type_categories/aromatherapy_massage.png"
+    }
+  ],
+    "typePeelings": [
+    {
+      "id": 1,
+      "name": "Cukrový peeling",
+      "price": "1200 Kč",
+      "description": "Ideální způsob, jak jemně odstranit mrtvé buňky pokožky a dodat jí svěží vzhled. Cukrový peeling má jemnou texturu, která šetrně čistí pokožku bez podráždění. Tento peeling je vhodný pro všechny typy pleti, zejména pro suchou a citlivou pokožku. Cukrové krystaly spolu s vyživujícími oleji zanechávají pokožku hedvábně hladkou, jemnou a hydratovanou. Procedura zanechává pokožku zářivou, pevnou a zdravou.",
+      "duration": "Délka: 50 min",
+      "image": "../../image/type_categories/sugar_peeling.png"
+    },
+    {
+      "id": 2,
+      "name": "Solný peeling",
+      "price": "1350 Kč",
+      "description": "Hluboce čistící peeling, který odlupuje mrtvé buňky pokožky. Solný peeling účinně odstraňuje odumřelé buňky, stimuluje krevní oběh a zlepšuje celkovou texturu pokožky. Sůl je bohatá na minerály, které pokožku vyživují a regenerují. Tento peeling je zvláště vhodný pro mastnou a problémovou pleť, zanechává pokožku svěží, tonizovanou a zdravou.",
+      "duration": "Délka: 60 min",
+      "image": "../../image/type_categories/salt_peeling.png"
+    },
+    {
+      "id": 3,
+      "name": "Kávový peeling",
+      "price": "1350 Kč",
+      "description": "Kávový peeling je vynikající způsob, jak dodat vaší pokožce energii a tón. Kávový peeling má antioxidační vlastnosti, které pomáhají bojovat proti známkám stárnutí a zlepšují elasticitu pokožky. Jemně odlupuje a omlazuje pokožku, zanechává ji hladkou a zářivou. Přírodní oleje obsažené v peelingu hluboce vyživují a hydratují pokožku, zanechávají ji jemnou a pružnou.",
+      "duration": "Délka: 60 min",
+      "image": "../../image/type_categories/coffee_peeling.png"
+    }
+  ],
+  "typeSteamingWrapping": [
+    {
+      "id": 1,
+      "name": "Finská sauna",
+      "price": "1200 Kč",
+      "description": "Tento lázeňský postup podporuje hluboké čištění pórů, zlepšuje krevní oběh, uvolňuje napětí a přispívá k celkovému zdraví těla. Procedura se provádí pomocí horkého suchého vzduchu, který je generován speciálními kameny zahřátými v sauně. Když se na kameny nalije voda, rychle se uvolňuje pára, což vytváří krátkodobý zvlhčující účinek.",
+      "duration": "Délka: 50 min",
+      "image": "../../image/type_categories/finnish_sauna.png"
+    },
+    {
+      "id": 2,
+      "name": "Turecký hammam",
+      "price": "1350 Kč",
+      "description": "Tato tradiční lázeň zajišťuje hluboké čištění a relaxaci prostřednictvím kombinace vysoké teploty a vlhkosti. Intenzivní peeling následovaný masáží celého těla s použitím esenciálních olejů a teplých vodních paprsků revitalizuje pokožku. Procedura pomáhá čistit pokožku, zlepšuje krevní oběh, uvolňuje svaly, snižuje stres a zlepšuje celkové zdraví těla.",
+      "duration": "Délka: 60 min",
+      "image": "../../image/type_categories/turkish_hammam.png"
+    },
+    {
+      "id": 3,
+      "name": "Čokoládový zábal",
+      "price": "1050 Kč",
+      "description": "Čokoládový zábal je lázeňská procedura, při které se na pokožku nanáší roztavená čokoláda. Procedura hydratuje a vyživuje pokožku, zanechává ji měkkou, hladkou a omlazenou. Čokoládové zábaly také zlepšují krevní oběh, pomáhají v boji proti celulitidě a poskytují uvolňující zážitek.",
+      "duration": "Délka: 45 min",
+      "image": "../../image/type_categories/chocolate_wrapping.png"
+    },
+    {
+      "id": 4,
+      "name": "Mořský zábal",
+      "price": "900 Kč",
+      "description": "Mořský zábal je lázeňská procedura, při které se na tělo aplikuje speciální směs mořských řas. Procedura pomáhá detoxikovat pokožku, vyživuje ji vitamíny a minerály a zlepšuje její celkovou pružnost. Mořský zábal také stimuluje krevní oběh, snižuje celulitidu a zvyšuje tón pleti.",
+      "duration": "Délka: 40 min",
+      "image": "../../image/type_categories/seaweed_wrapping.png"
+    }
+  ],
+    "teaCeremonies": [
+    {
+      "id": 1,
+      "name": "Čajový obřad",
+      "price": "1200 Kč",
+      "description": "Toto je starobylé umění přípravy a pití čaje, které podporuje vnitřní klid a harmonii. Během obřadu vám naši mistři odhalí jemnosti tradičních metod přípravy čaje a vy si budete užívat lahodnou vůni kvalitního čaje.",
+      "duration": "Délka: 60 min",
+      "image": "../../image/type_categories/tea_ceremony.png"
+    },
+    {
+      "id": 2,
+      "name": "Aromaterapeutický obřad",
+      "price": "1350 Kč",
+      "description": "Aromaterapeutický obřad je lázeňský rituál, který využívá sílu přírodních esenciálních olejů ke zlepšení fyzické a emocionální pohody. Během obřadu se esenciální oleje rozptylují do vzduchu nebo aplikují na tělo, čímž se vytváří atmosféra klidu a harmonie.",
+      "duration": "Délka: 60 min",
+      "image": "../../image/type_categories/aromatherapy_ceremony.png"
+    }
   ]
 }

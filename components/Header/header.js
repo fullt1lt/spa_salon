@@ -15,6 +15,14 @@ function ChangeHeader(section) {
       return HeaderSecond(section);
     case "HeaderCafe":
       return HeaderSecond(section);
+    case "Massages":
+      return HeaderSecond(section);
+    case "Peelings":
+      return HeaderSecond(section);
+    case "Steaming and Wrapping":
+      return HeaderSecond(section);
+    case "Ceremonies":
+      return HeaderSecond(section);
     case "main":
       return HeaderMain();
     default:

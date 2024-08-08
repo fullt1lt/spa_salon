@@ -1,5 +1,8 @@
 import { MainPage } from "./components/Main_page/MainPage";
-import { Main_type_categories } from "./components/Type_categories/Main_type_categories";
+import {
+  Main_type_categories,
+  setupMainTypeCategoriesSwitch,
+} from "./components/Type_categories/Main_type_categories";
 import {
   MainBlogNews,
   setupBlogNewsSwitch,
@@ -30,6 +33,18 @@ function ChangeMain(section) {
     case "HeaderCafe":
       setTimeout(setupCafeSwitch, 0);
       return MainCafe();
+    case "Massages":
+      setTimeout(setupMainTypeCategoriesSwitch, 0);
+      return Main_type_categories(section);
+    case "Peelings":
+      setTimeout(setupMainTypeCategoriesSwitch, 0);
+      return Main_type_categories(section);
+    case "Steaming and Wrapping":
+      setTimeout(setupMainTypeCategoriesSwitch, 0);
+      return Main_type_categories(section);
+    case "Ceremonies":
+      setTimeout(setupMainTypeCategoriesSwitch, 0);
+      return Main_type_categories(section);
     case "main":
       return MainPage();
     default:
