@@ -265,41 +265,6 @@ a {
   float: right;
   margin-right: 50px;
 }
-.Header_Second .Header_Second_list .Header_Second_info .Header_Second_info_list .Header_Second_autorization .authorization_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-.Header_Second .Header_Second_list .Header_Second_info .Header_Second_info_list .Header_Second_autorization .authorization_list .authorization {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  color: var(--black-color);
-}
-.Header_Second .Header_Second_list .Header_Second_info .Header_Second_info_list .Header_Second_autorization .authorization_list .authorization .authorization_link {
-  color: var(--black-color);
-  margin: 0 15px;
-  font-size: 18px;
-}
-.Header_Second .Header_Second_list .Header_Second_info .Header_Second_info_list .Header_Second_autorization .authorization_list .authorization .authorization_link:hover {
-  color: var(--button-hover);
-}
-.Header_Second .Header_Second_list .Header_Second_info .Header_Second_info_list .Header_Second_autorization .authorization_list .authorization .button_logout {
-  border: medium none;
-  background-image: none;
-  background: transparent;
-  float: left;
-  background-color: transparent;
-  color: var(--black-color);
-  margin-left: 15px;
-  font-size: 18px;
-}
-.Header_Second .Header_Second_list .Header_Second_info .Header_Second_info_list .Header_Second_autorization .authorization_list .authorization .button_logout:hover {
-  color: var(--button-hover);
-}
 .Header_Second .Header_Second_list .Header_Second_navigation {
   width: 100%;
   border: 3px solid var(--black-color);
@@ -522,6 +487,8 @@ a {
           flex-direction: column;
   margin: 0 auto;
   margin-top: 50px;
+  width: 90%;
+  margin-bottom: 50px;
 }
 .TypeCategories_main_list .Categories_header_list {
   display: -webkit-box;
@@ -547,7 +514,6 @@ a {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: start;
@@ -1314,6 +1280,8 @@ a {
 .Cafe_main .Cafe_main_image {
   width: 100%;
   height: 424px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .Cafe_main .Cafe_main_list {
   display: -webkit-box;
@@ -1522,6 +1490,8 @@ a {
 .Blog_news_main .Blog_news_main_image {
   width: 100%;
   height: 424px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .Blog_news_main .Blog_news_main_list {
   display: -webkit-box;
@@ -1747,6 +1717,8 @@ a {
 .Gallery_main .Gallery_main_image {
   width: 100%;
   height: 424px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .Gallery_main .Gallery_main_list {
   display: -webkit-box;
@@ -2183,498 +2155,178 @@ a {
     width: 150px !important;
     height: 150px !important;
   }
+  .Cafe_main_header {
+    width: 80% !important;
+  }
+  .Cafe_main_header h1 {
+    font-size: 24px !important;
+    text-align: left;
+  }
+  .Gallery_main_header {
+    width: 80% !important;
+  }
+  .Gallery_main_header h1 {
+    font-size: 24px !important;
+    text-align: left;
+  }
+  .Blog_news_main_header {
+    width: 80% !important;
+  }
+  .Blog_news_main_header h1 {
+    font-size: 24px !important;
+    text-align: left;
+  }
+  .Order_main_list {
+    width: 100% !important;
+  }
+  .Order_form_list {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
+  }
+  .Order_form_list .Order_form_item {
+    width: 90% !important;
+  }
 }
-.Record_main_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  width: 100%;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  min-height: 400px;
-  font-family: var(--font-family-Manrope);
+@media (min-width: 380px) and (max-width: 820px) {
+  .TypeCategory_item {
+    width: 100% !important;
+    font-size: 16px !important;
+  }
+  .TypeCafeCategories_item {
+    width: 100% !important;
+    font-size: 16px !important;
+  }
+  .Procedures_list {
+    -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+            align-items: center !important;
+    -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+            justify-content: center !important;
+  }
+  .Procedures_list .Procedure_item {
+    width: 330px !important;
+    height: 180px !important;
+  }
+  .Main_Second_Header_navigation_item {
+    margin-right: 10px !important;
+  }
+  .Main_Second_Header_navigation_item a {
+    font-size: 14px !important;
+  }
+  .item_description {
+    height: 140px !important;
+  }
+  .item_description span {
+    font-size: 14px !important;
+  }
+  .BlogNewsCategories_item_list {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
+    -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+            align-items: center !important;
+  }
+  .BlogNewsCategories_item_list .item_description {
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: row !important;
+            flex-direction: row !important;
+    width: 100% !important;
+    height: auto !important;
+  }
+  .BlogNewsCategories_item_list .item_image {
+    width: 90% !important;
+    height: auto !important;
+  }
+  .Record_main_list {
+    min-height: 100vh !important;
+  }
+  .Admin_navigations {
+    width: 25% !important;
+  }
+  .Admin_navigations .Admin_navigations_header {
+    font-size: 16px !important;
+  }
+  .Admin_content {
+    width: 70% !important;
+  }
+  .view_therapist {
+    width: 250px !important;
+  }
+  .Admin_block_content_list {
+    width: 90% !important;
+  }
+  .schedule_list {
+    min-height: 300px !important;
+    min-width: 300px !important;
+  }
+  .CafeProduct_item {
+    width: 100% !important;
+  }
+  .TypeCafeProduct_item {
+    width: 100% !important;
+  }
 }
-.Record_main_list .Record_procedur_form {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  width: 400px;
-  margin: 50px 0;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background-color: #fff;
-  border-radius: 16px;
-  -webkit-box-shadow: 10px 5px 5px rgb(192, 192, 192);
-          box-shadow: 10px 5px 5px rgb(192, 192, 192);
+@media (min-width: 821px) and (max-width: 1120px) {
+  .CafeProduct_item {
+    width: 100% !important;
+  }
+  .TypeCafeProduct_item {
+    width: 100% !important;
+  }
+  .Main_Second_Header_navigation_item {
+    margin-right: 10px !important;
+  }
+  .Main_Second_Header_navigation_item a {
+    font-size: 14px !important;
+  }
+  .TypeCategory_item_list .item_description {
+    height: 250px !important;
+  }
+  .BlogNewsCategories_item_list {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+            flex-direction: column !important;
+    -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+            align-items: center !important;
+  }
+  .BlogNewsCategories_item_list .item_description {
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+        -ms-flex-direction: row !important;
+            flex-direction: row !important;
+    width: 100% !important;
+  }
+  .Admin_navigations_item span {
+    font-size: 14px !important;
+    text-wrap: wrap !important;
+  }
+  .CafeProduct_item {
+    width: 100% !important;
+  }
+  .TypeCafeProduct_item {
+    width: 100% !important;
+  }
+  .Procedure_item {
+    width: 100% !important;
+  }
+  .TypeCategory_item {
+    width: 100% !important;
+  }
+  .Massage_Therapist_content_item {
+    width: 80% !important;
+  }
+  #view_therapist {
+    width: 250px !important;
+  }
 }
-.Record_main_list .Record_procedur_form .category_button_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  width: 100%;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  margin-top: 20px;
-}
-.Record_main_list .Record_procedur_form .category_button_list .category-button {
-  padding: 5px 10px;
-  margin: 5px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 14px;
-  background-color: #e0e3eb;
-  border-radius: 10px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 20px;
-  text-align: center;
-}
-.Record_main_list .Record_procedur_form .category_button_list .category-button.selected {
-  background-color: var(--black-color);
-  color: var(--white-color);
-}
-.Record_main_list .Record_procedur_form .procedure_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  width: 100%;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-top: 20px;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item {
-  display: none;
-  width: 100%;
-  margin-left: 30px;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list {
-  width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-info {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: self-start;
-      -ms-flex-align: self-start;
-          align-items: self-start;
-  width: 80%;
-  margin-top: 15px;
-  margin-right: 25px;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-info span {
-  margin-top: 5px;
-  color: #000;
-  font-family: var(--font-family-Manrope);
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-info .type_category {
-  margin-top: 0;
-  font-weight: 500;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-info .get_duration_display {
-  font-size: 16px;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-info .price {
-  font-size: 20px;
-  font-weight: 500;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-label {
-  margin-top: 15px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  cursor: pointer;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-label input[type=radio] {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  width: 20px;
-  height: 20px;
-  border: 2px solid black;
-  border-radius: 3px;
-  margin-right: 10px;
-  outline: none;
-  cursor: pointer;
-  position: relative;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-label .procedure-checkbox {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  width: 20px;
-  height: 20px;
-  border: 2px solid black;
-  margin-right: 10px;
-  outline: none;
-  cursor: pointer;
-  position: relative;
-  border-radius: 3px;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-label .procedure-checkbox::after {
-  content: "";
-  position: absolute;
-  width: 5px;
-  height: 10px;
-  border: solid white;
-  border-width: 0 2px 2px 0;
-  top: 1px;
-  left: 5px;
-  -webkit-transform: rotate(45deg);
-          transform: rotate(45deg);
-  display: none;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-label .procedure-checkbox:checked {
-  background-color: black;
-}
-.Record_main_list .Record_procedur_form .procedure_list .procedure-item .procedure-item-list .procedure-item-label .procedure-checkbox:checked::after {
-  display: block;
-}
-.Record_main_list .Record_procedur_form .submit-procedure-button {
-  margin: 20px 0;
-  border: 2px solid #0c0c0c;
-  padding: 15px 30px;
-  color: #141414;
-  text-align: center;
-  font-family: var(--font-family-Manrope);
-  font-size: 13px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 19.5px;
-  letter-spacing: 1.56px;
-  text-transform: uppercase;
-  background-color: transparent;
-}
-.Record_main_list .Record_therapist_form {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  width: 400px;
-  margin: 50px 0;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background-color: #fff;
-  border-radius: 16px;
-  -webkit-box-shadow: 10px 5px 5px rgb(192, 192, 192);
-          box-shadow: 10px 5px 5px rgb(192, 192, 192);
-}
-.Record_main_list .Record_therapist_form .therapist-list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  width: 400px;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-top: 20px;
-  padding: 5px;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  width: 400px;
-  margin-top: 20px;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  cursor: pointer;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin-left: 15px;
-  width: 100%;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_image {
-  margin-right: 5px;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_image .Massage_Therapist_img {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info {
-  width: 100%;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-item_info_user_name span {
-  color: var(--black-color);
-  font-style: normal;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 24px;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-position .therapist-position_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-position .therapist-position_list .therapist-position-item span {
-  color: var(--black-color);
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  margin-right: 5px;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-rating .rating_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-rating .rating_list .rating {
-  margin-right: 10px;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-rating .rating_list .rating .star {
-  color: gold;
-  font-size: 20px;
-  display: inline-block;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-rating .rating_list .average_rating span {
-  color: rgba(0, 0, 0, 0.56);
-  font-family: Manrope;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-available-slots .therapist-available-slots_list .slot_datetime span {
-  color: var(--black-color);
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-available-slots .therapist-available-slots_list .slot_datetime .slot_time_list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
-  width: 100%;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item_list .therapist-item_info .therapist-item_list .therapist-available-slots .therapist-available-slots_list .slot_datetime .slot_time_list .slot_time_item {
-  border: 1px solid black;
-  padding: 5px;
-  border-radius: 5px;
-  margin-right: 5px;
-  background-color: #e0e3eb;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item-label {
-  margin-top: 15px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  cursor: pointer;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item-label input[type=radio] {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  width: 20px;
-  height: 20px;
-  border: 2px solid black;
-  border-radius: 3px;
-  margin-right: 10px;
-  outline: none;
-  cursor: pointer;
-  position: relative;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item-label .therapist-checkbox {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  width: 20px;
-  height: 20px;
-  border: 2px solid black;
-  margin-right: 10px;
-  outline: none;
-  cursor: pointer;
-  position: relative;
-  border-radius: 3px;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item-label .therapist-checkbox::after {
-  content: "";
-  position: absolute;
-  width: 5px;
-  height: 10px;
-  border: solid white;
-  border-width: 0 2px 2px 0;
-  top: 1px;
-  left: 5px;
-  -webkit-transform: rotate(45deg);
-          transform: rotate(45deg);
-  display: none;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item-label .therapist-checkbox:checked {
-  background-color: black;
-}
-.Record_main_list .Record_therapist_form .therapist-list .therapist-item .therapist-item-label .therapist-checkbox:checked::after {
-  display: block;
-}
-.Record_main_list .Record_therapist_form .submit-therapist-button {
-  margin: 20px 0;
-  border: 2px solid #0c0c0c;
-  padding: 15px 30px;
-  color: #141414;
-  text-align: center;
-  font-family: var(--font-family-Manrope);
-  font-size: 13px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 19.5px;
-  letter-spacing: 1.56px;
-  text-transform: uppercase;
-  background-color: transparent;
-}
-.Record_main_list .Record_datetime_container {
-  width: 400px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  margin: 50px 0;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background-color: #fff;
-  border-radius: 16px;
-  -webkit-box-shadow: 10px 5px 5px rgb(192, 192, 192);
-          box-shadow: 10px 5px 5px rgb(192, 192, 192);
-}
-.Record_main_list .Record_datetime_container div .flatpickr-calendar {
-  width: 398px !important;
-  border-radius: 16px 16px 0 0;
-}
-.Record_main_list .Record_datetime_container div .flatpickr-innerContainer {
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-.Record_main_list .Record_datetime_container .available-slots {
-  width: 400px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  margin-top: 30px;
-}
-.Record_main_list .Record_datetime_container .available-slots .slots-container {
-  width: 80%;
-  padding: 5px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
-}
-.Record_main_list .Record_datetime_container .available-slots .slots-container .time-slot {
-  margin: 5px;
-  padding: 5px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  display: inline-block;
-  cursor: pointer;
-}
-.Record_main_list .Record_datetime_container .available-slots .time-slot.selected {
-  background-color: #569ff7;
-  color: var(--white-color);
-}
-.Record_main_list .Record_datetime_container .Record_datetime_form {
-  width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-top: 50px;
-}
-.Record_main_list .Record_datetime_container .Record_datetime_form .submit-datetime-button {
-  margin: 10px 0;
-  border: 2px solid #0c0c0c;
-  padding: 15px 30px;
-  color: #141414;
-  text-align: center;
-  font-family: var(--font-family-Manrope);
-  font-size: 13px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 19.5px;
-  letter-spacing: 1.56px;
-  text-transform: uppercase;
-  background-color: transparent;
-}
-
 .Main_Footer {
   position: relative;
   -webkit-box-align: center;

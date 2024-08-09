@@ -244,4 +244,36 @@
     width: 150px !important;
     height: 150px !important;
   }
+
+  .Cafe_main_header {
+    width: 80% !important;
+    h1 {
+      font-size: 24px !important;
+      text-align: left;
+    }
+  }
+  .Gallery_main_header {
+    width: 80% !important;
+    h1 {
+      font-size: 24px !important;
+      text-align: left;
+    }
+  }
+  .Blog_news_main_header {
+    width: 80% !important;
+    h1 {
+      font-size: 24px !important;
+      text-align: left;
+    }
+  }
+  .Order_main_list {
+    width: 100% !important;
+  }
+
+  .Order_form_list {
+    flex-direction: column !important;
+    .Order_form_item {
+      width: 90% !important;
+    }
+  }
 }

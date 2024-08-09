@@ -29,9 +29,6 @@
       font-size: 14px !important;
     }
   }
-  .GalleryCategories_main_list {
-    height: 70vh !important;
-  }
   .BlogNewsCategories_item_list {
     flex-direction: column !important;
     align-items: center !important;
@@ -73,17 +70,17 @@
     width: 100% !important;
   }
   .TypeCafeProduct_item {
-    width: 100% !important;  
-    }
+    width: 100% !important;
+  }
 }
 
 @media (min-width: 821px) and (max-width: 1120px) {
   .CafeProduct_item {
     width: 100% !important;
   }
-    .TypeCafeProduct_item {
-    width: 100% !important;  
-    };
+  .TypeCafeProduct_item {
+    width: 100% !important;
+  }
   .Main_Second_Header_navigation_item {
     margin-right: 10px !important;
   }

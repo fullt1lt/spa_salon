@@ -6,7 +6,7 @@ import Image_header from "/header.png";
 
 export function HeaderMain() {
   return `
-    <header class="Main_Header" style="background: url(${Image_header}); background-repeat: no-repeat; background-size: cover;">
+    <header class="Main_Header" style="background: url(${Image_header}); background-repeat: no-repeat; background-size: cover; background-position: center">
       <div class="Main_Header_Substrate">
         <ul class="Main_Header_list">
           <li class="Main_Header_info">

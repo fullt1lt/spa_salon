@@ -25,86 +25,87 @@
       "id": 1,
       "name": "Massages",
       "description": "Our massages are a unique combination of traditional and modern techniques. From classic to Thai, sports, and aromatherapy massage, each procedure is aimed at relieving muscle tension, improving blood circulation, and overall well-being. Trust our experienced massage therapists and feel deep relaxation.",
-      "image": "../../image/category/Massage.png",
+      "image": "./image/category/Massage.png",
       "moreInfoUrl": "/massage.html"
     },
     {
       "id": 2,
       "name": "Peelings",
       "description": "Peeling is a cosmetic procedure aimed at removing the top layer of dead skin cells to improve its texture, appearance, and overall condition. The main advantage of the procedure is exfoliating the skin, which stimulates its renewal and regeneration. The choice of peeling depends on the individual needs of the skin and the expected results.",
-      "image": "../../image/category/peeling.jpg",
+      "image": "./image/category/peeling.jpg",
       "moreInfoUrl": "/peelings.html"
     },
     {
       "id": 3,
       "name": "Steaming and Wrapping",
       "description": "In our spa complex, we offer several types of steaming and wrapping, using only natural essential oils and herbs that enhance the effect of the procedure and provide pleasant aromas. Our professional specialists will ensure your comfort and relaxation during the procedures, taking into account all your wishes. During wrapping, special mixtures of natural components, such as seaweed, clay, honey, chocolate, or essential oils, are applied to the body, and then the body is wrapped in foil or special fabrics.",
-      "image": "../../image/category/baths.jpg",
+      "image": "./image/category/baths.jpg",
       "moreInfoUrl": "/steaming_wrapping.html"
     },
     {
       "id": 4,
       "name": "Ceremonies",
       "description": "Ceremonies contribute to physical and emotional healing and create a unique atmosphere where you can feel harmony with yourself and the surrounding world. They help you pause, relax, and enjoy the moment, forgetting about stress and worries. Visiting our ceremonies will provide not only physical relaxation but also spiritual renewal, helping you feel happier and healthier.",
-      "image": "../../image/category/caption.jpg",
+      "image": "./image/category/caption.jpg",
       "moreInfoUrl": "/ceremonies.html"
     }
   ],
   "learnMore": "Learn More",
+  "specialistsHeader": "Specialists",
   "specialists": [
     {
       "id": 1,
       "name": "Oksana Kovalenko",
       "role": "Administrator",
-      "image": "../../image/therapist/admin.png"
+      "image": "./image/therapist/admin.png"
     },
     {
       "id": 2,
       "name": "Anna Herasymenko",
       "role": "Masseuse",
-      "image": "../../image/therapist/Anna.png"
+      "image": "./image/therapist/Anna.png"
     },
     {
       "id": 3,
       "name": "Oleksandr Shevchenko",
       "role": "Masseur, Bath Attendant",
-      "image": "../../image/therapist/Alex.png"
+      "image": "./image/therapist/Alex.png"
     },
     {
       "id": 4,
       "name": "Mariya Kovalchuk",
       "role": "Masseuse",
-      "image": "../../image/therapist/Mari.png"
+      "image": "./image/therapist/Mari.png"
     },
     {
       "id": 5,
       "name": "Ivan Honcharenko",
       "role": "Masseur, Bath Attendant",
-      "image": "../../image/therapist/Ivan.png"
+      "image": "./image/therapist/Ivan.png"
     },
     {
       "id": 6,
       "name": "Olena Boyko",
       "role": "Masseuse",
-      "image": "../../image/therapist/Elena.png"
+      "image": "./image/therapist/Elena.png"
     },
     {
       "id": 7,
       "name": "Dmytro Sydorenko",
       "role": "Masseur, Bath Attendant",
-      "image": "../../image/therapist/Dmitry.png"
+      "image": "./image/therapist/Dmitry.png"
     },
     {
       "id": 8,
       "name": "Tetyana Melnyk",
       "role": "Masseuse",
-      "image": "../../image/therapist/Tanya.png"
+      "image": "./image/therapist/Tanya.png"
     },
     {
       "id": 9,
       "name": "Andriy Petrovskiy",
       "role": "Masseur, Bath Attendant",
-      "image": "../../image/therapist/Andriy.png"
+      "image": "./image/therapist/Andriy.png"
     }
   ],
   "whyUsHeader": "Why Us?",
@@ -128,49 +129,49 @@
     {
       "id": 1,
       "blogHeader": "Benefits of Regular SPA Visits",
-      "blogMainImg": "../../image/blogNews/blog_main_1.png",
+      "blogMainImg": "./image/blogNews/blog_main_1.png",
 
       "blogDescription": "Stress Relief and Relaxation: How regular procedures help reduce stress levels and improve overall health. Skin rejuvenation: The role of peels, masks, and wraps in maintaining skin health and beauty.",
-      "blogtextImg": "../../image/blogNews/blog_small_image_1.png"
+      "blogtextImg": "./image/blogNews/blog_small_image_1.png"
     },
     {
       "id": 2,
       "blogHeader": "Types of Massages and Their Benefits",
-      "blogMainImg": "../../image/blogNews/blog_main_2.png",
+      "blogMainImg": "./image/blogNews/blog_main_2.png",
 
       "blogDescription": "Lymphatic Drainage Massage: How it helps reduce swelling and improve lymph circulation. Swedish massage: Basic techniques and benefits for the body. Thai massage: Traditional methods and their impact on the body.",
-      "blogtextImg": "../../image/blogNews/blog_small_image_2.png"
+      "blogtextImg": "./image/blogNews/blog_small_image_2.png"
     },
     {
       "id": 3,
       "blogHeader": "Peelings: How to Choose the Best",
-      "blogMainImg": "../../image/blogNews/blog_main_3.png",
+      "blogMainImg": "./image/blogNews/blog_main_3.png",
 
       "blogDescription": "Salt Scrub: Benefits and effectiveness in removing dead cells. Coffee scrub: How caffeine stimulates and rejuvenates the skin. Sugar scrub: A gentle and effective way to cleanse the skin.",
-      "blogtextImg": "../../image/blogNews/blog_small_image_3.png"
+      "blogtextImg": "./image/blogNews/blog_small_image_3.png"
     }
   ],
   "news": [
     {
       "id": 1,
       "blogHeader": "Special Offer: Discount on Couple Visits",
-      "blogMainImg": "../../image/blogNews/news_main_1.png",
+      "blogMainImg": "./image/blogNews/news_main_1.png",
       "blogDescription": "In June, we launch a special offer for couples: 20% discount on all couple procedures! Come with your loved one and enjoy unforgettable moments of relaxation.",
-      "blogtextImg": "../../image/blogNews/news_small_image_1.png"
+      "blogtextImg": "./image/blogNews/news_small_image_1.png"
     },
     {
       "id": 2,
       "blogHeader": "Summer Peeling Promotion",
-      "blogMainImg": "../../image/blogNews/news_main_2.png",
+      "blogMainImg": "./image/blogNews/news_main_2.png",
       "blogDescription": "During the summer season, it is especially important to take care of your skin. That's why we offer a 30% discount on all types of peels! Don't miss the opportunity to make your skin smooth and radiant.",
-      "blogtextImg": "../../image/blogNews/news_small_image_2.png"
+      "blogtextImg": "./image/blogNews/news_small_image_2.png"
     },
     {
       "id": 3,
       "blogHeader": "Special Offer for New Clients",
-      "blogMainImg": "../../image/blogNews/news_main_3.png",
+      "blogMainImg": "./image/blogNews/news_main_3.png",
       "blogDescription": "For all new clients of our SPA-salon, there is a special offer: 50% discount on the first visit. Take advantage of this opportunity and discover the world of luxurious relaxation.",
-      "blogtextImg": "../../image/blogNews/news_small_image_3.png"
+      "blogtextImg": "./image/blogNews/news_small_image_3.png"
     }
   ],
   "HeaderCafe": ["Desserts", "Coffee", "Special Offers", "Teas"],
@@ -185,7 +186,7 @@
       "price": "3 USD",
       "ingredients": "Ingredients: mascarpone cheese, biscuit base, berry sauce with blueberry and raspberry.",
       "description": "Description: Delicate cheesecake with a refreshing berry sauce.",
-      "image": "../../image/cafe/chiscake.png"
+      "image": "./image/cafe/chiscake.png"
     },
     {
       "id": 2,
@@ -193,7 +194,7 @@
       "price": "2.70 USD",
       "ingredients": "Ingredients: lemon cream, shortcrust pastry, meringue.",
       "description": "Description: Light lemon cake with crispy shortcrust pastry and delicate meringue.",
-      "image": "../../image/cafe/lemon_cake.png"
+      "image": "./image/cafe/lemon_cake.png"
     },
     {
       "id": 3,
@@ -201,7 +202,7 @@
       "price": "3.30 USD",
       "ingredients": "Ingredients: dark chocolate, butter, eggs, sugar.",
       "description": "Description: Hot dessert with a liquid chocolate filling, a true paradise for chocolate lovers.",
-      "image": "../../image/cafe/Chocolate_fondant.png"
+      "image": "./image/cafe/Chocolate_fondant.png"
     }
   ],
   "Coffee": [
@@ -211,7 +212,7 @@
       "price": "1.90 USD",
       "ingredients": "Ingredients: freshly roasted Arabica beans, dark chocolate, cream.",
       "description": "Description: An intense espresso with added dark chocolate and cream for a smooth taste.",
-      "image": "../../image/cafe/espresso.png"
+      "image": "./image/cafe/espresso.png"
     },
     {
       "id": 2,
@@ -219,7 +220,7 @@
       "price": "2.40 USD",
       "ingredients": "Ingredients: espresso, milk, caramel syrup.",
       "description": "Description: A soft latte with sweet caramel notes, making it ideal for any time of the day.",
-      "image": "../../image/cafe/Latte.png"
+      "image": "./image/cafe/Latte.png"
     },
     {
       "id": 3,
@@ -227,7 +228,7 @@
       "price": "2.20 USD",
       "ingredients": "Ingredients: espresso, milk, vanilla syrup.",
       "description": "Description: Classic cappuccino with added vanilla syrup for a refined taste.",
-      "image": "../../image/cafe/cappuccino.png"
+      "image": "./image/cafe/cappuccino.png"
     }
   ],
   "specialOffers": [
@@ -237,7 +238,7 @@
       "price": "5 USD",
       "ingredients": "Ingredients: coffee or tea of choice, 'Berry Fantasy' cheesecake, freshly squeezed juice.",
       "description": "Description: The perfect breakfast to start your day with joy and delight.",
-      "image": "../../image/cafe/sweet_breakfast.png"
+      "image": "./image/cafe/sweet_breakfast.png"
     },
     {
       "id": 2,
@@ -245,7 +246,7 @@
       "price": "4 USD",
       "ingredients": "Ingredients: any tea, 'Lemon Delight' cake, seasonal fruits.",
       "description": "Description: Light afternoon break with refreshing tea and delicious dessert.",
-      "image": "../../image/cafe/afternoon_tea.png"
+      "image": "./image/cafe/afternoon_tea.png"
     },
     {
       "id": 3,
@@ -253,7 +254,7 @@
       "price": "6 USD",
       "ingredients": "Ingredients: coffee or tea of choice, chocolate fondant.",
       "description": "Description: Evening delight with an elegant combination of chocolate.",
-      "image": "../../image/cafe/evening_delight.png"
+      "image": "./image/cafe/evening_delight.png"
     }
   ],
   "tea": [
@@ -263,7 +264,7 @@
       "price": "2.00 USD",
       "ingredients": "Ingredients: lavender flowers, mint, lemon balm, chamomile.",
       "description": "Description: An aromatic herbal tea that helps to relax and relieve stress.",
-      "image": "../../image/cafe/lavender_tea.png"
+      "image": "./image/cafe/lavender_tea.png"
     },
     {
       "id": 2,
@@ -271,7 +272,7 @@
       "price": "2.20 USD",
       "ingredients": "Ingredients: lemon zest, orange zest, ginger, green tea.",
       "description": "Description: A refreshing tea with citrus notes and a light spicy taste of ginger.",
-      "image": "../../image/cafe/citrus_tea.png"
+      "image": "./image/cafe/citrus_tea.png"
     },
     {
       "id": 3,
@@ -279,7 +280,7 @@
       "price": "2.30 USD",
       "ingredients": "Ingredients: dried raspberries, blueberries, rose hips, hibiscus.",
       "description": "Description: A sweet tea with a rich berry flavor and a pleasant tartness.",
-      "image": "../../image/cafe/berry_tea.png"
+      "image": "./image/cafe/berry_tea.png"
     }
   ],
   "HeaderGallery": ["Bath", "Cafe", "Process", "Spa"],
@@ -288,41 +289,46 @@
     "mainGalleryText": "Feel the emotion of luxury and relaxation while viewing our photos of the SPA atmosphere. Allow yourself to escape from the daily routine and enjoy the beauty and luxury of every detail of our procedures and furnishings."
   },
   "Bath": [
-    { "id": 1, "image": "../../image/gallery/gallery_bath_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_bath_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_bath_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_bath_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_bath_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_bath_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_bath_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_bath_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_bath_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_bath_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_bath_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_bath_6.png" }
   ],
   "Cafe": [
-    { "id": 1, "image": "../../image/gallery/gallery_cafe_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_cafe_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_cafe_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_cafe_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_cafe_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_cafe_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_cafe_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_cafe_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_cafe_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_cafe_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_cafe_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_cafe_6.png" }
   ],
   "Process": [
-    { "id": 1, "image": "../../image/gallery/gallery_proces_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_proces_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_proces_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_proces_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_proces_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_proces_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_proces_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_proces_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_proces_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_proces_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_proces_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_proces_6.png" }
   ],
   "Spa": [
-    { "id": 1, "image": "../../image/gallery/gallery_spa_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_spa_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_spa_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_spa_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_spa_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_spa_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_spa_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_spa_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_spa_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_spa_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_spa_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_spa_6.png" }
   ],
-  "Massages":["Massages", "Peelings","Steaming and Wrapping", "Ceremonies"],
-  "Peelings":["Massages", "Peelings","Steaming and Wrapping", "Ceremonies"],
-  "Steaming and Wrapping":["Massages", "Peelings","Steaming and Wrapping", "Ceremonies"],
-  "Ceremonies":["Massages", "Peelings","Steaming and Wrapping", "Ceremonies"],
+  "Massages": ["Massages", "Peelings", "Steaming and Wrapping", "Ceremonies"],
+  "Peelings": ["Massages", "Peelings", "Steaming and Wrapping", "Ceremonies"],
+  "Steaming and Wrapping": [
+    "Massages",
+    "Peelings",
+    "Steaming and Wrapping",
+    "Ceremonies"
+  ],
+  "Ceremonies": ["Massages", "Peelings", "Steaming and Wrapping", "Ceremonies"],
   "typeMassages": [
     {
       "id": 1,
@@ -330,7 +336,7 @@
       "price": "69/94 USD",
       "description": "A universal technique for relaxing muscles, relieving tension, and improving blood circulation. Ideal for full-body recovery, balancing the body's physical and emotional states. It also includes elements of manual therapy for muscles and body tissues.",
       "duration": "Duration: 60/90 min",
-      "image": "../../image/type_categories/classic_massage.png"
+      "image": "./image/type_categories/classic_massage.png"
     },
     {
       "id": 2,
@@ -338,7 +344,7 @@
       "price": "71/96 USD",
       "description": "A traditional massage technique that combines elements of acupuncture, yoga, and flexible stretching of muscles and connective tissues. This technique is aimed at restoring the body's energy balance, relieving tension, and improving flexibility.",
       "duration": "Duration: 60/90 min",
-      "image": "../../image/type_categories/thai_massage.png"
+      "image": "./image/type_categories/thai_massage.png"
     },
     {
       "id": 3,
@@ -346,7 +352,7 @@
       "price": "71/103 USD",
       "description": "A specialized form of massage developed for athletes to reduce fatigue and prepare the body for physical exertion. It is used to prevent injuries and improve muscle tone, restore energy, and promote recovery after intense training.",
       "duration": "Duration: 90/120 min",
-      "image": "../../image/type_categories/sports_massage.png"
+      "image": "./image/type_categories/sports_massage.png"
     },
     {
       "id": 4,
@@ -354,17 +360,17 @@
       "price": "63/90 USD",
       "description": "This method of massage uses essential oils for maximum relaxation and therapeutic effects. Essential oils are chosen individually, helping to relieve stress, improve mood, and enhance the body's overall well-being.",
       "duration": "Duration: 60/90 min",
-      "image": "../../image/type_categories/aromatherapy_massage.png"
+      "image": "./image/type_categories/aromatherapy_massage.png"
     }
   ],
-    "typePeelings": [
+  "typePeelings": [
     {
       "id": 1,
       "name": "Sugar Peeling",
       "price": "55 USD",
       "description": "An ideal way to remove dead skin cells and give it a fresh look. The sugar scrub has a delicate texture that gently cleanses the skin, without irritation. This peeling is suitable for all skin types, especially for dry and sensitive skin. The sugar crystals, along with nourishing oils, leave the skin silky smooth, soft, and hydrated. The procedure makes the skin radiant, firm, and healthy.",
       "duration": "Duration: 50 min",
-      "image": "../../image/type_categories/sugar_peeling.png"
+      "image": "./image/type_categories/sugar_peeling.png"
     },
     {
       "id": 2,
@@ -372,7 +378,7 @@
       "price": "60 USD",
       "description": "A deep cleansing peeling that exfoliates dead skin cells. The salt scrub effectively removes dead cells, stimulates blood circulation, and improves the overall texture of the skin. The salt is rich in minerals that nourish and rejuvenate the skin. This peeling is especially beneficial for oily and problem skin types, leaving the skin refreshed, toned, and healthy.",
       "duration": "Duration: 60 min",
-      "image": "../../image/type_categories/salt_peeling.png"
+      "image": "./image/type_categories/salt_peeling.png"
     },
     {
       "id": 3,
@@ -380,7 +386,7 @@
       "price": "60 USD",
       "description": "Coffee peeling is an excellent way to add a boost of energy to your skin. The coffee scrub has antioxidant properties that help fight signs of aging and improve skin elasticity. It gently exfoliates and rejuvenates the skin, leaving it smooth and glowing. The natural oils in the scrub deeply hydrate and nourish the skin, leaving it soft and supple.",
       "duration": "Duration: 60 min",
-      "image": "../../image/type_categories/coffee_peeling.png"
+      "image": "./image/type_categories/coffee_peeling.png"
     }
   ],
   "typeSteamingWrapping": [
@@ -390,7 +396,7 @@
       "price": "55 USD",
       "description": "This spa treatment promotes deep pore cleansing, improves blood circulation, relieves tension, and contributes to overall body health. The procedure is carried out using hot dry air, which is generated by special stones heated in the sauna. When water is poured on the stones, steam is rapidly released, creating a short-term humidifying effect.",
       "duration": "Duration: 50 min",
-      "image": "../../image/type_categories/finnish_sauna.png"
+      "image": "./image/type_categories/finnish_sauna.png"
     },
     {
       "id": 2,
@@ -398,7 +404,7 @@
       "price": "60 USD",
       "description": "This traditional bath ensures deep cleansing and relaxation through a combination of high temperature and humidity. Intense scrubbing followed by a full-body massage with essential oils and warm water jets revitalizes the skin. The procedure helps cleanse the skin, improve blood circulation, relax muscles, relieve stress, and enhance overall body health.",
       "duration": "Duration: 60 min",
-      "image": "../../image/type_categories/turkish_hammam.png"
+      "image": "./image/type_categories/turkish_hammam.png"
     },
     {
       "id": 3,
@@ -406,7 +412,7 @@
       "price": "45 USD",
       "description": "Chocolate wrapping is a spa treatment where melted chocolate is applied to the skin. The treatment hydrates and nourishes the skin, leaving it soft, smooth, and rejuvenated. Chocolate wraps also improve blood circulation, help combat cellulite, and provide an indulgent relaxation experience.",
       "duration": "Duration: 45 min",
-      "image": "../../image/type_categories/chocolate_wrapping.png"
+      "image": "./image/type_categories/chocolate_wrapping.png"
     },
     {
       "id": 4,
@@ -414,17 +420,17 @@
       "price": "40 USD",
       "description": "Seaweed wrapping is a spa treatment where a special mixture of seaweed is applied to the body. The procedure helps detoxify the skin, nourish it with vitamins and minerals, and improve its overall elasticity. The seaweed wrap also stimulates blood circulation, reduces cellulite, and enhances skin tone.",
       "duration": "Duration: 40 min",
-      "image": "../../image/type_categories/seaweed_wrapping.png"
+      "image": "./image/type_categories/seaweed_wrapping.png"
     }
   ],
-    "teaCeremonies": [
+  "teaCeremonies": [
     {
       "id": 1,
       "name": "Tea Ceremony",
       "price": "55 USD",
       "description": "This is the ancient art of preparing and drinking tea, which promotes inner peace and harmony. During the ceremony, our masters reveal to you the subtleties of traditional methods of brewing tea, and you enjoy the exquisite aroma of high-quality tea.",
       "duration": "Duration: 60 min",
-      "image": "../../image/type_categories/tea_ceremony.png"
+      "image": "./image/type_categories/tea_ceremony.png"
     },
     {
       "id": 2,
@@ -432,7 +438,7 @@
       "price": "60 USD",
       "description": "The aromatherapy ceremony is a spa ritual that uses the power of natural essential oils to improve physical and emotional well-being. During the ceremony, the aromas are diffused in the air or applied to the body, creating an atmosphere of tranquility and harmony.",
       "duration": "Duration: 60 min",
-      "image": "../../image/type_categories/aromatherapy_ceremony.png"
+      "image": "./image/type_categories/aromatherapy_ceremony.png"
     }
   ]
 }

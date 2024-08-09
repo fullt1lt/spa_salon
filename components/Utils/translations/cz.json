@@ -25,28 +25,28 @@
       "id": 1,
       "name": "Masáže",
       "description": "Naše masáže jsou unikátní kombinací tradičních a moderních technik. Od klasických po thajské, sportovní a aromaterapeutické masáže - každá procedura je zaměřena na uvolnění svalového napětí, zlepšení krevního oběhu a celkové pohody. Důvěřujte našim zkušeným masérům a pocítíte hlubokou relaxaci.",
-      "image": "../../image/category/Massage.png",
+      "image": "./image/category/Massage.png",
       "moreInfoUrl": "/massage.html"
     },
     {
       "id": 2,
       "name": "Peelingy",
       "description": "Peeling je kosmetická procedura zaměřená na odstranění horní vrstvy mrtvých kožních buněk ke zlepšení její textury, vzhledu a celkového stavu. Hlavní výhodou procedury je exfoliace pokožky, která stimuluje její obnovu a regeneraci. Výběr peelingu závisí na individuálních potřebách pokožky a očekávaných výsledcích.",
-      "image": "../../image/category/peeling.jpg",
+      "image": "./image/category/peeling.jpg",
       "moreInfoUrl": "/peelings.html"
     },
     {
       "id": 3,
       "name": "Propařování a zábaly",
       "description": "V našem lázeňském komplexu nabízíme několik druhů propařování a zábalů, využíváme pouze přírodní esenciální oleje a bylinky, které zvyšují účinek procedur a poskytují příjemné vůně. Naši profesionální specialisté vám zajistí pohodlí a relaxaci během procedur, s ohledem na všechna vaše přání. Během zábalu se na tělo aplikují speciální směsi přírodních složek, jako jsou řasy, jíly, med, čokoláda nebo esenciální oleje, a poté se tělo zabalí do fólie nebo speciálních látek.",
-      "image": "../../image/category/baths.jpg",
+      "image": "./image/category/baths.jpg",
       "moreInfoUrl": "/steaming_wrapping.html"
     },
     {
       "id": 4,
       "name": "Ceremonie",
       "description": "Ceremonie přispívají k fyzickému a emočnímu uzdravení a vytvářejí jedinečnou atmosféru, kde můžete pocítit harmonii se sebou a okolním světem. Pomáhají vám zastavit se, uvolnit a užít si chvíle, zapomenout na stresy a starosti. Návštěvou našich ceremonií získáte nejen fyzické uvolnění, ale i duchovní obnovu, která vám pomůže cítit se šťastněji a zdravěji.",
-      "image": "../../image/category/caption.jpg",
+      "image": "./image/category/caption.jpg",
       "moreInfoUrl": "/ceremonies.html"
     }
   ],
@@ -57,55 +57,55 @@
       "id": 1,
       "name": "Oksana Kovalenko",
       "role": "Administrátor",
-      "image": "../../image/therapist/admin.png"
+      "image": "./image/therapist/admin.png"
     },
     {
       "id": 2,
       "name": "Anna Herasymenko",
       "role": "Masérka",
-      "image": "../../image/therapist/Anna.png"
+      "image": "./image/therapist/Anna.png"
     },
     {
       "id": 3,
       "name": "Oleksandr Shevchenko",
       "role": "Masér, odborník na sauny",
-      "image": "../../image/therapist/Alex.png"
+      "image": "./image/therapist/Alex.png"
     },
     {
       "id": 4,
       "name": "Mariya Kovalchuk",
       "role": "Masérka",
-      "image": "../../image/therapist/Mari.png"
+      "image": "./image/therapist/Mari.png"
     },
     {
       "id": 5,
       "name": "Ivan Honcharenko",
       "role": "Masér, odborník na sauny",
-      "image": "../../image/therapist/Ivan.png"
+      "image": "./image/therapist/Ivan.png"
     },
     {
       "id": 6,
       "name": "Olena Boyko",
       "role": "Masérka",
-      "image": "../../image/therapist/Elena.png"
+      "image": "./image/therapist/Elena.png"
     },
     {
       "id": 7,
       "name": "Dmytro Sydorenko",
       "role": "Masér, odborník na sauny",
-      "image": "../../image/therapist/Dmitry.png"
+      "image": "./image/therapist/Dmitry.png"
     },
     {
       "id": 8,
       "name": "Tetyana Melnyk",
       "role": "Masérka",
-      "image": "../../image/therapist/Tanya.png"
+      "image": "./image/therapist/Tanya.png"
     },
     {
       "id": 9,
       "name": "Andriy Petrovskiy",
       "role": "Masér, odborník na sauny",
-      "image": "../../image/therapist/Andriy.png"
+      "image": "./image/therapist/Andriy.png"
     }
   ],
   "whyUsHeader": "Proč právě my?",
@@ -129,46 +129,46 @@
     {
       "id": 1,
       "blogHeader": "Výhody pravidelných návštěv SPA",
-      "blogMainImg": "../../image/blogNews/blog_main_1.png",
+      "blogMainImg": "./image/blogNews/blog_main_1.png",
       "blogDescription": "Úleva od stresu a relaxace: Jak pravidelné procedury pomáhají snižovat hladinu stresu a zlepšovat celkové zdraví. Omlazení pokožky: Role peelingů, masek a zábalů při udržování zdraví a krásy pokožky.",
-      "blogtextImg": "../../image/blogNews/blog_small_image_1.png"
+      "blogtextImg": "./image/blogNews/blog_small_image_1.png"
     },
     {
       "id": 2,
       "blogHeader": "Typy masáží a jejich výhody",
-      "blogMainImg": "../../image/blogNews/blog_main_2.png",
+      "blogMainImg": "./image/blogNews/blog_main_2.png",
       "blogDescription": "Lymfatická masáž: Jak pomáhá snižovat otoky a zlepšovat cirkulaci lymfy. Švédská masáž: Základní techniky a přínosy pro tělo. Thajská masáž: Tradiční metody a jejich dopad na tělo.",
-      "blogtextImg": "../../image/blogNews/blog_small_image_2.png"
+      "blogtextImg": "./image/blogNews/blog_small_image_2.png"
     },
     {
       "id": 3,
       "blogHeader": "Peelingy: Jak vybrat ten nejlepší",
-      "blogMainImg": "../../image/blogNews/blog_main_3.png",
+      "blogMainImg": "./image/blogNews/blog_main_3.png",
       "blogDescription": "Solný peeling: Výhody a účinnost při odstraňování odumřelých buněk. Kávový peeling: Jak kofein stimuluje a omlazuje pokožku. Cukrový peeling: Jemný a účinný způsob čištění pokožky.",
-      "blogtextImg": "../../image/blogNews/blog_small_image_3.png"
+      "blogtextImg": "./image/blogNews/blog_small_image_3.png"
     }
   ],
   "news": [
     {
       "id": 1,
       "blogHeader": "Speciální nabídka: Sleva na návštěvy párů",
-      "blogMainImg": "../../image/blogNews/news_main_1.png",
+      "blogMainImg": "./image/blogNews/news_main_1.png",
       "blogDescription": "V červnu spouštíme speciální nabídku pro páry: 20% sleva na všechny párové procedury! Přijďte se svou milovanou osobou a užijte si nezapomenutelné chvíle relaxace.",
-      "blogtextImg": "../../image/blogNews/news_small_image_1.png"
+      "blogtextImg": "./image/blogNews/news_small_image_1.png"
     },
     {
       "id": 2,
       "blogHeader": "Letní peelingová akce",
-      "blogMainImg": "../../image/blogNews/news_main_2.png",
+      "blogMainImg": "./image/blogNews/news_main_2.png",
       "blogDescription": "Během letní sezóny je zvláště důležité pečovat o svou pokožku. Proto nabízíme 30% slevu na všechny typy peelingů! Nepropásněte příležitost učinit svou pokožku hladkou a zářivou.",
-      "blogtextImg": "../../image/blogNews/news_small_image_2.png"
+      "blogtextImg": "./image/blogNews/news_small_image_2.png"
     },
     {
       "id": 3,
       "blogHeader": "Speciální nabídka pro nové klienty",
-      "blogMainImg": "../../image/blogNews/news_main_3.png",
+      "blogMainImg": "./image/blogNews/news_main_3.png",
       "blogDescription": "Pro všechny nové klienty našeho SPA-salonu platí speciální nabídka: 50% sleva na první návštěvu. Využijte této příležitosti a objevte svět luxusní relaxace.",
-      "blogtextImg": "../../image/blogNews/news_small_image_3.png"
+      "blogtextImg": "./image/blogNews/news_small_image_3.png"
     }
   ],
   "HeaderCafe": ["Dezerty", "Káva", "Speciální nabídky", "Čaje"],
@@ -183,7 +183,7 @@
       "price": "67 CZK",
       "ingredients": "Ingredience: mascarpone sýr, sušenkový základ, ovocná omáčka z borůvek a malin.",
       "description": "Popis: Jemný cheesecake s osvěžující ovocnou omáčkou.",
-      "image": "../../image/cafe/chiscake.png"
+      "image": "./image/cafe/chiscake.png"
     },
     {
       "id": 2,
@@ -191,7 +191,7 @@
       "price": "60 CZK",
       "ingredients": "Ingredience: citrónový krém, křehké těsto, pusinky.",
       "description": "Popis: Lehký citrónový dort s křupavým křehkým těstem a jemnými pusinkami.",
-      "image": "../../image/cafe/lemon_cake.png"
+      "image": "./image/cafe/lemon_cake.png"
     },
     {
       "id": 3,
@@ -199,7 +199,7 @@
       "price": "73 CZK",
       "ingredients": "Ingredience: hořká čokoláda, máslo, vejce, cukr.",
       "description": "Popis: Horký dezert s tekutou čokoládovou náplní, skutečný ráj pro milovníky čokolády.",
-      "image": "../../image/cafe/Chocolate_fondant.png"
+      "image": "./image/cafe/Chocolate_fondant.png"
     }
   ],
   "Coffee": [
@@ -209,7 +209,7 @@
       "price": "41 Kč",
       "ingredients": "Složení: čerstvě pražená zrna arabiky, tmavá čokoláda, smetana.",
       "description": "Popis: Intenzivní espresso s přídavkem tmavé čokolády a smetany pro jemnou chuť.",
-      "image": "../../image/cafe/espresso.png"
+      "image": "./image/cafe/espresso.png"
     },
     {
       "id": 2,
@@ -217,7 +217,7 @@
       "price": "51 Kč",
       "ingredients": "Složení: espresso, mléko, karamelový sirup.",
       "description": "Popis: Jemné latte se sladkými tóny karamelu, což jej činí ideálním pro každou denní dobu.",
-      "image": "../../image/cafe/Latte.png"
+      "image": "./image/cafe/Latte.png"
     },
     {
       "id": 3,
@@ -225,7 +225,7 @@
       "price": "47 Kč",
       "ingredients": "Složení: espresso, mléko, vanilkový sirup.",
       "description": "Popis: Klasické cappuccino s přidáním vanilkového sirupu pro vytříbenou chuť.",
-      "image": "../../image/cafe/cappuccino.png"
+      "image": "./image/cafe/cappuccino.png"
     }
   ],
   "specialOffers": [
@@ -235,7 +235,7 @@
       "price": "115 Kč",
       "ingredients": "Složení: káva nebo čaj dle výběru, cheesecake 'Berry Fantasy', čerstvě vymačkaná šťáva.",
       "description": "Popis: Ideální snídaně pro začátek dne s radostí a potěšením.",
-      "image": "../../image/cafe/sweet_breakfast.png"
+      "image": "./image/cafe/sweet_breakfast.png"
     },
     {
       "id": 2,
@@ -243,7 +243,7 @@
       "price": "100 Kč",
       "ingredients": "Složení: jakýkoliv čaj, dort 'Lemon Delight', sezónní ovoce.",
       "description": "Popis: Lehké odpolední občerstvení s osvěžujícím čajem a chutným dezertem.",
-      "image": "../../image/cafe/afternoon_tea.png"
+      "image": "./image/cafe/afternoon_tea.png"
     },
     {
       "id": 3,
@@ -251,7 +251,7 @@
       "price": "150 Kč",
       "ingredients": "Složení: káva nebo čaj dle výběru, čokoládový fondant.",
       "description": "Popis: Večerní lahůdka s elegantní kombinací čokolády.",
-      "image": "../../image/cafe/evening_delight.png"
+      "image": "./image/cafe/evening_delight.png"
     }
   ],
   "tea": [
@@ -261,7 +261,7 @@
       "price": "44 Kč",
       "ingredients": "Složení: květy levandule, máta, meduňka, heřmánek.",
       "description": "Popis: Aromatický bylinný čaj, který pomáhá relaxovat a ulevit od stresu.",
-      "image": "../../image/cafe/lavender_tea.png"
+      "image": "./image/cafe/lavender_tea.png"
     },
     {
       "id": 2,
@@ -269,7 +269,7 @@
       "price": "47 Kč",
       "ingredients": "Složení: citronová kůra, pomerančová kůra, zázvor, zelený čaj.",
       "description": "Popis: Osvěžující čaj s citrusovými tóny a lehkou pikantní chutí zázvoru.",
-      "image": "../../image/cafe/citrus_tea.png"
+      "image": "./image/cafe/citrus_tea.png"
     },
     {
       "id": 3,
@@ -277,7 +277,7 @@
       "price": "50 Kč",
       "ingredients": "Složení: sušené maliny, borůvky, šípek, ibišek.",
       "description": "Popis: Sladký čaj s bohatou ovocnou chutí a příjemnou kyselostí.",
-      "image": "../../image/cafe/berry_tea.png"
+      "image": "./image/cafe/berry_tea.png"
     }
   ],
   "HeaderGallery": ["Koupel", "Kavárna", "Proces", "Spa"],
@@ -286,36 +286,36 @@
     "mainGalleryText": "Pociťte emoci luxusu a relaxace při prohlížení našich fotografií atmosféry SPA. Dopřejte si únik z každodenní rutiny a užívejte si krásu a luxus každého detailu našich procedur a vybavení."
   },
   "Bath": [
-    { "id": 1, "image": "../../image/gallery/gallery_bath_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_bath_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_bath_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_bath_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_bath_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_bath_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_bath_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_bath_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_bath_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_bath_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_bath_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_bath_6.png" }
   ],
   "Cafe": [
-    { "id": 1, "image": "../../image/gallery/gallery_cafe_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_cafe_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_cafe_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_cafe_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_cafe_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_cafe_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_cafe_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_cafe_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_cafe_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_cafe_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_cafe_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_cafe_6.png" }
   ],
   "Process": [
-    { "id": 1, "image": "../../image/gallery/gallery_proces_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_proces_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_proces_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_proces_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_proces_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_proces_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_proces_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_proces_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_proces_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_proces_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_proces_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_proces_6.png" }
   ],
   "Spa": [
-    { "id": 1, "image": "../../image/gallery/gallery_spa_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_spa_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_spa_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_spa_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_spa_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_spa_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_spa_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_spa_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_spa_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_spa_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_spa_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_spa_6.png" }
   ],
   "Massages": ["Masáže", "Peelingy", "Propařování a zábaly", "Ceremonie"],
   "Peelings": ["Masáže", "Peelingy", "Propařování a zábaly", "Ceremonie"],
@@ -328,7 +328,7 @@
       "price": "1600/2150 Kč",
       "description": "Univerzální technika pro uvolnění svalů, odstranění napětí a zlepšení krevního oběhu. Ideální pro regeneraci celého těla a nalezení rovnováhy mezi fyzickým a emocionálním stavem. Zahrnuje prvky manuální terapie svalů a tkání těla.",
       "duration": "Délka: 60/90 min",
-      "image": "../../image/type_categories/classic_massage.png"
+      "image": "./image/type_categories/classic_massage.png"
     },
     {
       "id": 2,
@@ -336,7 +336,7 @@
       "price": "1650/2200 Kč",
       "description": "Tradiční masážní technika, která kombinuje prvky akupunktury, jógy a pružného protažení svalů a pojivových tkání. Tato technika je zaměřena na obnovu energetické rovnováhy v těle, odstranění napětí a zlepšení flexibility.",
       "duration": "Délka: 60/90 min",
-      "image": "../../image/type_categories/thai_massage.png"
+      "image": "./image/type_categories/thai_massage.png"
     },
     {
       "id": 3,
@@ -344,7 +344,7 @@
       "price": "1650/2400 Kč",
       "description": "Speciální forma masáže vyvinutá pro sportovce ke snížení únavy a přípravě těla na fyzickou zátěž. Používá se k prevenci úrazů, zlepšení svalového tonusu a podpoře regenerace po intenzivním tréninku.",
       "duration": "Délka: 90/120 min",
-      "image": "../../image/type_categories/sports_massage.png"
+      "image": "./image/type_categories/sports_massage.png"
     },
     {
       "id": 4,
@@ -352,7 +352,7 @@
       "price": "1450/2100 Kč",
       "description": "Tato masážní technika využívá éterické oleje k maximální relaxaci a terapeutickému účinku. Éterické oleje jsou vybírány individuálně, pomáhají snižovat stres, zlepšovat náladu a zvyšovat celkovou pohodu těla.",
       "duration": "Délka: 60/90 min",
-      "image": "../../image/type_categories/aromatherapy_massage.png"
+      "image": "./image/type_categories/aromatherapy_massage.png"
     }
   ],
     "typePeelings": [
@@ -362,7 +362,7 @@
       "price": "1200 Kč",
       "description": "Ideální způsob, jak jemně odstranit mrtvé buňky pokožky a dodat jí svěží vzhled. Cukrový peeling má jemnou texturu, která šetrně čistí pokožku bez podráždění. Tento peeling je vhodný pro všechny typy pleti, zejména pro suchou a citlivou pokožku. Cukrové krystaly spolu s vyživujícími oleji zanechávají pokožku hedvábně hladkou, jemnou a hydratovanou. Procedura zanechává pokožku zářivou, pevnou a zdravou.",
       "duration": "Délka: 50 min",
-      "image": "../../image/type_categories/sugar_peeling.png"
+      "image": "./image/type_categories/sugar_peeling.png"
     },
     {
       "id": 2,
@@ -370,7 +370,7 @@
       "price": "1350 Kč",
       "description": "Hluboce čistící peeling, který odlupuje mrtvé buňky pokožky. Solný peeling účinně odstraňuje odumřelé buňky, stimuluje krevní oběh a zlepšuje celkovou texturu pokožky. Sůl je bohatá na minerály, které pokožku vyživují a regenerují. Tento peeling je zvláště vhodný pro mastnou a problémovou pleť, zanechává pokožku svěží, tonizovanou a zdravou.",
       "duration": "Délka: 60 min",
-      "image": "../../image/type_categories/salt_peeling.png"
+      "image": "./image/type_categories/salt_peeling.png"
     },
     {
       "id": 3,
@@ -378,7 +378,7 @@
       "price": "1350 Kč",
       "description": "Kávový peeling je vynikající způsob, jak dodat vaší pokožce energii a tón. Kávový peeling má antioxidační vlastnosti, které pomáhají bojovat proti známkám stárnutí a zlepšují elasticitu pokožky. Jemně odlupuje a omlazuje pokožku, zanechává ji hladkou a zářivou. Přírodní oleje obsažené v peelingu hluboce vyživují a hydratují pokožku, zanechávají ji jemnou a pružnou.",
       "duration": "Délka: 60 min",
-      "image": "../../image/type_categories/coffee_peeling.png"
+      "image": "./image/type_categories/coffee_peeling.png"
     }
   ],
   "typeSteamingWrapping": [
@@ -388,7 +388,7 @@
       "price": "1200 Kč",
       "description": "Tento lázeňský postup podporuje hluboké čištění pórů, zlepšuje krevní oběh, uvolňuje napětí a přispívá k celkovému zdraví těla. Procedura se provádí pomocí horkého suchého vzduchu, který je generován speciálními kameny zahřátými v sauně. Když se na kameny nalije voda, rychle se uvolňuje pára, což vytváří krátkodobý zvlhčující účinek.",
       "duration": "Délka: 50 min",
-      "image": "../../image/type_categories/finnish_sauna.png"
+      "image": "./image/type_categories/finnish_sauna.png"
     },
     {
       "id": 2,
@@ -396,7 +396,7 @@
       "price": "1350 Kč",
       "description": "Tato tradiční lázeň zajišťuje hluboké čištění a relaxaci prostřednictvím kombinace vysoké teploty a vlhkosti. Intenzivní peeling následovaný masáží celého těla s použitím esenciálních olejů a teplých vodních paprsků revitalizuje pokožku. Procedura pomáhá čistit pokožku, zlepšuje krevní oběh, uvolňuje svaly, snižuje stres a zlepšuje celkové zdraví těla.",
       "duration": "Délka: 60 min",
-      "image": "../../image/type_categories/turkish_hammam.png"
+      "image": "./image/type_categories/turkish_hammam.png"
     },
     {
       "id": 3,
@@ -404,7 +404,7 @@
       "price": "1050 Kč",
       "description": "Čokoládový zábal je lázeňská procedura, při které se na pokožku nanáší roztavená čokoláda. Procedura hydratuje a vyživuje pokožku, zanechává ji měkkou, hladkou a omlazenou. Čokoládové zábaly také zlepšují krevní oběh, pomáhají v boji proti celulitidě a poskytují uvolňující zážitek.",
       "duration": "Délka: 45 min",
-      "image": "../../image/type_categories/chocolate_wrapping.png"
+      "image": "./image/type_categories/chocolate_wrapping.png"
     },
     {
       "id": 4,
@@ -412,7 +412,7 @@
       "price": "900 Kč",
       "description": "Mořský zábal je lázeňská procedura, při které se na tělo aplikuje speciální směs mořských řas. Procedura pomáhá detoxikovat pokožku, vyživuje ji vitamíny a minerály a zlepšuje její celkovou pružnost. Mořský zábal také stimuluje krevní oběh, snižuje celulitidu a zvyšuje tón pleti.",
       "duration": "Délka: 40 min",
-      "image": "../../image/type_categories/seaweed_wrapping.png"
+      "image": "./image/type_categories/seaweed_wrapping.png"
     }
   ],
     "teaCeremonies": [
@@ -422,7 +422,7 @@
       "price": "1200 Kč",
       "description": "Toto je starobylé umění přípravy a pití čaje, které podporuje vnitřní klid a harmonii. Během obřadu vám naši mistři odhalí jemnosti tradičních metod přípravy čaje a vy si budete užívat lahodnou vůni kvalitního čaje.",
       "duration": "Délka: 60 min",
-      "image": "../../image/type_categories/tea_ceremony.png"
+      "image": "./image/type_categories/tea_ceremony.png"
     },
     {
       "id": 2,
@@ -430,7 +430,7 @@
       "price": "1350 Kč",
       "description": "Aromaterapeutický obřad je lázeňský rituál, který využívá sílu přírodních esenciálních olejů ke zlepšení fyzické a emocionální pohody. Během obřadu se esenciální oleje rozptylují do vzduchu nebo aplikují na tělo, čímž se vytváří atmosféra klidu a harmonie.",
       "duration": "Délka: 60 min",
-      "image": "../../image/type_categories/aromatherapy_ceremony.png"
+      "image": "./image/type_categories/aromatherapy_ceremony.png"
     }
   ]
 }

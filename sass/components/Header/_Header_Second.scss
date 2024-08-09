@@ -36,35 +36,6 @@
           top: -50px;
           float: right;
           margin-right: 50px;
-          .authorization_list {
-            display: flex;
-            .authorization {
-              display: flex;
-              align-items: center;
-              color: var(--black-color);
-              .authorization_link {
-                color: var(--black-color);
-                margin: 0 15px;
-                font-size: 18px;
-                &:hover {
-                  color: var(--button-hover);
-                }
-              }
-              .button_logout {
-                border: medium none;
-                background-image: none;
-                background: transparent;
-                float: left;
-                background-color: transparent;
-                color: var(--black-color);
-                margin-left: 15px;
-                font-size: 18px;
-                &:hover {
-                  color: var(--button-hover);
-                }
-              }
-            }
-          }
         }
       }
     }

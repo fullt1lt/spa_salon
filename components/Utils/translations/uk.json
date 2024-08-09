@@ -25,28 +25,28 @@
       "id": 1,
       "name": "Масажі",
       "description": "Наші масажі - це унікальне поєднання традиційних та сучасних технік. Від класичного до тайського, спортивного та аромотерапевтичного масажу - кожна процедура спрямована на зняття м'язового напруження, покращення кровообігу та загального самопочуття. Довіртеся нашим досвідченим масажистам і відчуйте глибоке розслаблення.",
-      "image": "../../image/category/Massage.png",
+      "image": "./image/category/Massage.png",
       "moreInfoUrl": "/massage.html"
     },
     {
       "id": 2,
       "name": "Пілінги",
       "description": "Пілінг - це косметична процедура, спрямована на видалення верхнього шару мертвих клітин шкіри для покращення її текстури, зовнішнього вигляду та загального стану. Основна перевага процедури полягає у відлущуванні шкіри, що стимулює її оновлення і регенерацію. Вибір пілінгу залежить від індивідуальних потреб шкіри та очікуваних результатів.",
-      "image": "../../image/category/peeling.jpg",
+      "image": "./image/category/peeling.jpg",
       "moreInfoUrl": "/peelings.html"
     },
     {
       "id": 3,
       "name": "Пропарки і обгортання",
       "description": "У нашому спа-комплексі ми пропонуємо кілька видів пропарок та обгортань, використовуємо тільки натуральні ефірні олії та трави, що підсилюють ефект від процедури і дарують приємні аромати. Наші професійні фахівці забезпечать вам комфорт і релаксацію під час процедур, враховуючи всі ваші побажання. Під час обгортання на тіло наносяться спеціальні суміші з натуральних компонентів, таких як водорості, глина, мед, шоколад або ефірні олії, а потім тіло загортають у плівку або спеціальні тканини.",
-      "image": "../../image/category/baths.jpg",
+      "image": "./image/category/baths.jpg",
       "moreInfoUrl": "/steaming_wrapping.html"
     },
     {
       "id": 4,
       "name": "Церемонії",
       "description": "Церемонії сприяють фізичному та емоційному оздоровленню, а й створюють унікальну атмосферу, де можна відчути гармонію з собою та навколишнім світом. Вони допомагають вам зупинитися, розслабитися та насолодитися моментом, забувши про стреси та турботи. Відвідуючи наші церемонії, ви отримуєте не лише фізичне розслаблення, а й духовне оновлення, що допоможе вам почуватися щасливішими та здоровішими.",
-      "image": "../../image/category/caption.jpg",
+      "image": "./image/category/caption.jpg",
       "moreInfoUrl": "/ceremonies.html"
     }
   ],
@@ -57,55 +57,55 @@
       "id": 1,
       "name": "Оксана Коваленко",
       "role": "Адміністратор",
-      "image": "../../image/therapist/admin.png"
+      "image": "./image/therapist/admin.png"
     },
     {
       "id": 2,
       "name": "Анна Герасименко",
       "role": "Масажистка",
-      "image": "../../image/therapist/Anna.png"
+      "image": "./image/therapist/Anna.png"
     },
     {
       "id": 3,
       "name": "Олександр Шевченко",
       "role": "Масажист, банщик",
-      "image": "../../image/therapist/Alex.png"
+      "image": "./image/therapist/Alex.png"
     },
     {
       "id": 4,
       "name": "Марія Ковальчук",
       "role": "Масажистка",
-      "image": "../../image/therapist/Mari.png"
+      "image": "./image/therapist/Mari.png"
     },
     {
       "id": 5,
       "name": "Іван Гончаренко",
       "role": "Масажист, банщик",
-      "image": "../../image/therapist/Ivan.png"
+      "image": "./image/therapist/Ivan.png"
     },
     {
       "id": 6,
       "name": "Олена Бойко",
       "role": "Масажистка",
-      "image": "../../image/therapist/Elena.png"
+      "image": "./image/therapist/Elena.png"
     },
     {
       "id": 7,
       "name": "Дмитро Сидоренко",
       "role": "Масажист, банщик",
-      "image": "../../image/therapist/Dmitry.png"
+      "image": "./image/therapist/Dmitry.png"
     },
     {
       "id": 8,
       "name": "Тетяна Мельник",
       "role": "Масажистка",
-      "image": "../../image/therapist/Tanya.png"
+      "image": "./image/therapist/Tanya.png"
     },
     {
       "id": 9,
       "name": "Андрій Петровський",
       "role": "Масажист, банщик",
-      "image": "../../image/therapist/Andriy.png"
+      "image": "./image/therapist/Andriy.png"
     }
   ],
   "whyUsHeader": "Чому саме ми?",
@@ -129,46 +129,46 @@
     {
       "id": 1,
       "blogHeader": "Переваги регулярних візитів до СПА",
-      "blogMainImg": "../../image/blogNews/blog_main_1.png",
+      "blogMainImg": "./image/blogNews/blog_main_1.png",
       "blogDescription": "Зняття стресу та релаксація: Як регулярні процедури допомагають зменшити рівень стресу і покращити загальний стан здоров’я. Оздоровлення шкіри: Роль пілінгів, масок та обгортань у підтримці здоров'я та краси шкіри.",
-      "blogtextImg": "../../image/blogNews/blog_small_image_1.png"
+      "blogtextImg": "./image/blogNews/blog_small_image_1.png"
     },
     {
       "id": 2,
       "blogHeader": "Типи масажів та їх переваги",
-      "blogMainImg": "../../image/blogNews/blog_main_2.png",
+      "blogMainImg": "./image/blogNews/blog_main_2.png",
       "blogDescription": "Лімфодренажний масаж: Як він допомагає зменшити набряки та покращити циркуляцію лімфи. Шведський масаж: Основні техніки та користь для тіла. Тайський масаж: Традиційні методи та їх вплив на організм.",
-      "blogtextImg": "../../image/blogNews/blog_small_image_2.png"
+      "blogtextImg": "./image/blogNews/blog_small_image_2.png"
     },
     {
       "id": 3,
       "blogHeader": "Пілінги: як обрати найкращий",
-      "blogMainImg": "../../image/blogNews/blog_main_3.png",
+      "blogMainImg": "./image/blogNews/blog_main_3.png",
       "blogDescription": "Сольовий скраб: Користь та ефективність у видаленні відмерлих клітин. Скраб з кавою: Як кофеїн стимулює та омолоджує шкіру. Цукровий скраб: Ніжний та ефективний спосіб очищення шкіри.",
-      "blogtextImg": "../../image/blogNews/blog_small_image_3.png"
+      "blogtextImg": "./image/blogNews/blog_small_image_3.png"
     }
   ],
   "news": [
     {
       "id": 1,
       "blogHeader": "Спеціальна пропозиція: Знижка на парні відвідування",
-      "blogMainImg": "../../image/blogNews/news_main_1.png",
+      "blogMainImg": "./image/blogNews/news_main_1.png",
       "blogDescription": "У червні ми запускаємо спеціальну акцію для пар: знижка 20% на всі парні процедури! Приходьте разом з коханою людиною та насолоджуйтеся незабутніми моментами релаксу.",
-      "blogtextImg": "../../image/blogNews/news_small_image_1.png"
+      "blogtextImg": "./image/blogNews/news_small_image_1.png"
     },
     {
       "id": 2,
       "blogHeader": "Літня акція на пілінги",
-      "blogMainImg": "../../image/blogNews/news_main_2.png",
+      "blogMainImg": "./image/blogNews/news_main_2.png",
       "blogDescription": "У літній сезон особливо важливо піклуватися про шкіру. Саме тому ми пропонуємо знижку 30% на всі види пілінгів! Не пропустіть можливість зробити свою шкіру гладенькою та сяючою.",
-      "blogtextImg": "../../image/blogNews/news_small_image_2.png"
+      "blogtextImg": "./image/blogNews/news_small_image_2.png"
     },
     {
       "id": 3,
       "blogHeader": "Спеціальна пропозиція для нових клієнтів",
-      "blogMainImg": "../../image/blogNews/news_main_3.png",
+      "blogMainImg": "./image/blogNews/news_main_3.png",
       "blogDescription": "Для всіх нових клієнтів нашого СПА-салону діє спеціальна пропозиція: знижка 50% на перший візит. Скористайтеся нагодою та відкрийте для себе світ розкішного релаксу.",
-      "blogtextImg": "../../image/blogNews/news_small_image_3.png"
+      "blogtextImg": "./image/blogNews/news_small_image_3.png"
     }
   ],
   "HeaderCafe": ["Десерти", "Кава", "Спеціальні пропозициї", "Чаї"],
@@ -183,7 +183,7 @@
       "price": "110 грн",
       "ingredients": "Склад: сир маскарпоне, основа з печива, ягідний соус з чорниці та малини.",
       "description": "Опис: Ніжний чізкейк з освіжаючим ягідним соусом.",
-      "image": "../../image/cafe/chiscake.png"
+      "image": "./image/cafe/chiscake.png"
     },
     {
       "id": 2,
@@ -191,7 +191,7 @@
       "price": "100 грн",
       "ingredients": "Склад: лимонний крем, пісочне тісто, меренга.",
       "description": "Опис: Легкий лимонний торт з хрустким пісочним тістом та ніжною меренгою.",
-      "image": "../../image/cafe/lemon_cake.png"
+      "image": "./image/cafe/lemon_cake.png"
     },
     {
       "id": 3,
@@ -199,7 +199,7 @@
       "price": "120 грн",
       "ingredients": "Склад: темний шоколад, вершкове масло, яйця, цукор.",
       "description": "Опис: Гарячий десерт з рідкою шоколадною начинкою, що справжній рай для любителів шоколаду.",
-      "image": "../../image/cafe/Chocolate_fondant.png"
+      "image": "./image/cafe/Chocolate_fondant.png"
     }
   ],
   "Coffee": [
@@ -209,7 +209,7 @@
       "price": "70 грн",
       "ingredients": "Склад: свіжообсмажені зерна арабіки, темний шоколад, вершки.",
       "description": "Опис: Інтенсивний еспресо з додаванням темного шоколаду та вершків для ніжного смаку.",
-      "image": "../../image/cafe/espresso.png"
+      "image": "./image/cafe/espresso.png"
     },
     {
       "id": 2,
@@ -217,7 +217,7 @@
       "price": "90 грн",
       "ingredients": "Склад: еспресо, молоко, карамельний сироп.",
       "description": "Опис: М'який латте з солодкими нотками карамелі, що робить його ідеальним для будь-якої пори дня.",
-      "image": "../../image/cafe/Latte.png"
+      "image": "./image/cafe/Latte.png"
     },
     {
       "id": 3,
@@ -225,7 +225,7 @@
       "price": "85 грн",
       "ingredients": "Склад: еспресо, молоко, ванільний сироп.",
       "description": "Опис: Класичний капучино з додаванням ванільного сиропу для витонченого смаку.",
-      "image": "../../image/cafe/cappuccino.png"
+      "image": "./image/cafe/cappuccino.png"
     }
   ],
   "specialOffers": [
@@ -235,7 +235,7 @@
       "price": "180 грн",
       "ingredients": "Склад: кава або чай на вибір, чізкейк 'Ягідна фантазія', свіжовичавлений сік.",
       "description": "Опис: Ідеальний сніданок для початку дня з насолодою та радістю.",
-      "image": "../../image/cafe/sweet_breakfast.png"
+      "image": "./image/cafe/sweet_breakfast.png"
     },
     {
       "id": 2,
@@ -243,7 +243,7 @@
       "price": "160 грн",
       "ingredients": "Склад: будь-який чай, торт 'Лимонна насолода', сезонні фрукти.",
       "description": "Опис: Легка післяобідня перерва з освіжаючим чаєм та смачним десертом.",
-      "image": "../../image/cafe/afternoon_tea.png"
+      "image": "./image/cafe/afternoon_tea.png"
     },
     {
       "id": 3,
@@ -251,7 +251,7 @@
       "price": "200 грн",
       "ingredients": "Склад: кава або чай на вибір, шоколадний фондант.",
       "description": "Опис: Вечірня насолода з елегантним поєднанням шоколаду.",
-      "image": "../../image/cafe/evening_delight.png"
+      "image": "./image/cafe/evening_delight.png"
     }
   ],
   "tea": [
@@ -261,7 +261,7 @@
       "price": "75 грн",
       "ingredients": "Склад: лавандові квіти, м'ята, меліса, ромашка.",
       "description": "Опис: Ароматний трав'яний чай, який допомагає розслабитися та зняти стрес.",
-      "image": "../../image/cafe/lavender_tea.png"
+      "image": "./image/cafe/lavender_tea.png"
     },
     {
       "id": 2,
@@ -269,7 +269,7 @@
       "price": "80 грн",
       "ingredients": "Склад: лимонна цедра, апельсинова цедра, імбир, зелений чай.",
       "description": "Опис: Освіжаючий чай з цитрусовими нотками та легким пікантним смаком імбиру.",
-      "image": "../../image/cafe/citrus_tea.png"
+      "image": "./image/cafe/citrus_tea.png"
     },
     {
       "id": 3,
@@ -277,7 +277,7 @@
       "price": "85 грн",
       "ingredients": "Склад: сушені ягоди малини, чорниці, шипшини, гібіскус.",
       "description": "Опис: Солодкуватий чай з насиченим ягідним смаком та приємною кислинкою.",
-      "image": "../../image/cafe/berry_tea.png"
+      "image": "./image/cafe/berry_tea.png"
     }
   ],
   "HeaderGallery": ["Баня", "Кав'ярня", "Процес", "Спа"],
@@ -286,36 +286,36 @@
     "mainGalleryText": "Відчуйте емоцію розкоші та відпочинку, переглядаючи наші фотографії з обстановкою нашого СПА. Дозвольте собі відірватися від буденності та насолодитися красою і розкішшю кожної деталі наших процедур та облаштування."
   },
   "Bath": [
-    { "id": 1, "image": "../../image/gallery/gallery_bath_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_bath_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_bath_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_bath_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_bath_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_bath_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_bath_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_bath_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_bath_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_bath_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_bath_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_bath_6.png" }
   ],
   "Cafe": [
-    { "id": 1, "image": "../../image/gallery/gallery_cafe_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_cafe_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_cafe_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_cafe_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_cafe_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_cafe_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_cafe_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_cafe_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_cafe_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_cafe_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_cafe_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_cafe_6.png" }
   ],
   "Process": [
-    { "id": 1, "image": "../../image/gallery/gallery_proces_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_proces_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_proces_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_proces_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_proces_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_proces_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_proces_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_proces_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_proces_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_proces_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_proces_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_proces_6.png" }
   ],
   "Spa": [
-    { "id": 1, "image": "../../image/gallery/gallery_spa_1.png" },
-    { "id": 2, "image": "../../image/gallery/gallery_spa_2.png" },
-    { "id": 3, "image": "../../image/gallery/gallery_spa_3.png" },
-    { "id": 4, "image": "../../image/gallery/gallery_spa_4.png" },
-    { "id": 5, "image": "../../image/gallery/gallery_spa_5.png" },
-    { "id": 6, "image": "../../image/gallery/gallery_spa_6.png" }
+    { "id": 1, "image": "./image/gallery/gallery_spa_1.png" },
+    { "id": 2, "image": "./image/gallery/gallery_spa_2.png" },
+    { "id": 3, "image": "./image/gallery/gallery_spa_3.png" },
+    { "id": 4, "image": "./image/gallery/gallery_spa_4.png" },
+    { "id": 5, "image": "./image/gallery/gallery_spa_5.png" },
+    { "id": 6, "image": "./image/gallery/gallery_spa_6.png" }
   ],
   "Massages": ["Масажі", "Пілінги", "Пропарювання та обгортання", "Церемонії"],
   "Peelings": ["Масажі", "Пілінги", "Пропарювання та обгортання", "Церемонії"],
@@ -328,7 +328,7 @@
       "price": "2500/3400 грн",
       "description": "Універсальна техніка для розслаблення м'язів, зняття напруження та покращення кровообігу. Ідеально підходить для тіла, що шукає баланс між фізичним і емоційним станом. Включає використання різних методів мануального впливу на м'язи і тканини тіла.",
       "duration": "Тривалість: 60/90 хв",
-      "image": "../../image/type_categories/classic_massage.png"
+      "image": "./image/type_categories/classic_massage.png"
     },
     {
       "id": 2,
@@ -336,7 +336,7 @@
       "price": "2600/3500 грн",
       "description": "Це традиційна техніка масажу, яка поєднує в собі елементи акупунктури, йоги, гнучкого масажу м'язів та рефлексотерапії. Цей масаж спрямований на відновлення енергетичного балансу в тілі, зняття напруги та поліпшення гнучкості.",
       "duration": "Тривалість: 60/90 хв",
-      "image": "../../image/type_categories/thai_massage.png"
+      "image": "./image/type_categories/thai_massage.png"
     },
     {
       "id": 3,
@@ -344,7 +344,7 @@
       "price": "2600/3800 грн",
       "description": "Спеціалізована форма масажу, розроблена для спортсменів та осіб, що ведуть активний спосіб життя. Він спрямований на підготовку тіла до фізичних навантажень, підтримання фізичної форми, попередження травм та прискорення відновлення після тренувань.",
       "duration": "Тривалість: 90/120 хв",
-      "image": "../../image/type_categories/sports_massage.png"
+      "image": "./image/type_categories/sports_massage.png"
     },
     {
       "id": 4,
@@ -352,7 +352,7 @@
       "price": "2300/3300 грн",
       "description": "Це метод масажу, при якому використовуються ефірні олії для максимального розслаблення та терапевтичного ефекту. Ці олії підбираються індивідуально, допомагають зняти стрес, покращити настрій та загальний стан організму.",
       "duration": "Тривалість: 60/90 хв",
-      "image": "../../image/type_categories/aromatherapy_massage.png"
+      "image": "./image/type_categories/aromatherapy_massage.png"
     }
   ],
     "typePeelings": [
@@ -362,7 +362,7 @@
       "price": "2000 грн",
       "description": "Ідеальний спосіб м'яко видалити мертві клітини шкіри та надати їй свіжого вигляду. Цукровий скраб має ніжну текстуру, яка делікатно очищує шкіру, не травмуючи її. Цей вид пілінгу підходить для всіх типів шкіри, особливо для чутливої. Цукрові кристали разом з натуральними оліями глибоко живлять та зволожують шкіру, залишаючи її гладенькою та м'якою. Після процедури шкіра стає шовковистою, пружною та має здоровий блиск.",
       "duration": "Тривалість: 50 хв",
-      "image": "../../image/type_categories/sugar_peeling.png"
+      "image": "./image/type_categories/sugar_peeling.png"
     },
     {
       "id": 2,
@@ -370,7 +370,7 @@
       "price": "2200 грн",
       "description": "Це потужний спосіб глибокого очищення шкіри. Сольовий скраб відмінно видаляє мертві клітини, стимулює кровообіг та сприяє загальному тонусу шкіри та організму. Сіль насичує шкіру мінералами та мікроелементами, що сприяє її живленню та покращенню текстури. Цей вид пілінгу особливо корисний для жирної, проблемної шкіри, надаючи їй відчуття свіжості та тонусу.",
       "duration": "Тривалість: 60 хв",
-      "image": "../../image/type_categories/salt_peeling.png"
+      "image": "./image/type_categories/salt_peeling.png"
     },
     {
       "id": 3,
@@ -378,7 +378,7 @@
       "price": "2200 грн",
       "description": "Кавовий пілінг – це чудовий спосіб додати вашій шкірі енергії та тонусу. Кавовий скраб має антиоксидантні властивості, які допомагають боротися зі знаками старіння та запобігати пересушуванню шкіри. Кава м'яко делікатно знімає ороговілі клітини шкіри, освіжаючи та омолоджуючи її. Натуральні олії у складі скрабу глибоко живлять та зволожують шкіру, залишаючи її гладенькою, еластичною.",
       "duration": "Тривалість: 60 хв",
-      "image": "../../image/type_categories/coffee_peeling.png"
+      "image": "./image/type_categories/coffee_peeling.png"
     }
   ],
   "typeSteamingWrapping": [
@@ -388,7 +388,7 @@
       "price": "2000 грн",
       "description": "Це спа-процедура, що сприяє глибокому очищенню пор, покращенню кровообігу, зняттю напруження та загальному оздоровленню організму. Процедура здійснюється за допомогою гарячого сухого повітря, яке створюється камінням – спеціальною піччю з розігрітими каменями. Під нагрів повітря в сауні, на камені наливають воду, яка швидко випаровується, створюючи короткочасний ефект підвищеної вологості.",
       "duration": "Тривалість: 50 хв",
-      "image": "../../image/type_categories/finnish_sauna.png"
+      "image": "./image/type_categories/finnish_sauna.png"
     },
     {
       "id": 2,
@@ -396,7 +396,7 @@
       "price": "2200 грн",
       "description": "Це традиційна лазня, що забезпечує глибоке очищення та релаксацію через поєднання високої температури та вологості. Інтенсивне скрабування з подальшим масажем всього тіла з використанням мильної піни та промивання теплим водою. Процедури в хамамі сприяють очищенню шкіри, покращенню кровообігу, розслабленню м'язів, зняттю стресу та загальному оздоровленню.",
       "duration": "Тривалість: 60 хв",
-      "image": "../../image/type_categories/turkish_hammam.png"
+      "image": "./image/type_categories/turkish_hammam.png"
     },
     {
       "id": 3,
@@ -404,7 +404,7 @@
       "price": "1700 грн",
       "description": "Шоколадне обгортання – це спа-процедура, під час якої на тіло наносять свіжий шоколад. Ця процедура сприяє зволоженню шкіри, покращенню кровообігу та загальному розслабленню. Шоколадні обгортання також можуть стимулювати кровообіг і допомагати в боротьбі з целюлітом та дарує неймовірне задоволення.",
       "duration": "Тривалість: 45 хв",
-      "image": "../../image/type_categories/chocolate_wrapping.png"
+      "image": "./image/type_categories/chocolate_wrapping.png"
     },
     {
       "id": 4,
@@ -412,7 +412,7 @@
       "price": "1500 грн",
       "description": "Водоростеве обгортання – це спа-процедура, під час якої на тіло наносять спеціальну суміш з морських водоростей, що сприяють очищенню, зволоженню та живленню шкіри. Вони багаті різними мінералами та мікроелементами, що обгортання сприяє покращенню обміну речовин, зменшенню целюліту та підвищенню еластичності шкіри.",
       "duration": "Тривалість: 40 хв",
-      "image": "../../image/type_categories/seaweed_wrapping.png"
+      "image": "./image/type_categories/seaweed_wrapping.png"
     }
   ],
     "teaCeremonies": [
@@ -422,7 +422,7 @@
       "price": "2000 грн",
       "description": "Це давнє мистецтво приготування і вживання чаю, яке сприяє внутрішньому спокою та гармонії. Під час церемонії наші майстри розкривають перед вами тонкощі традиційних методів заварювання чаю, і ви насолоджуєтесь якісним ароматом чаю.",
       "duration": "Тривалість: 60 хв",
-      "image": "../../image/type_categories/tea_ceremony.png"
+      "image": "./image/type_categories/tea_ceremony.png"
     },
     {
       "id": 2,
@@ -430,7 +430,7 @@
       "price": "2200 грн",
       "description": "Церемонія з аромамаслами – це спа-ритуал, що використовує силу натуральних ефірних олій для покращення фізичного та емоційного стану. Під час церемонії аромамасла розпилюються у повітрі або наносяться на тіло, створюючи атмосферу спокою і гармонії.",
       "duration": "Тривалість: 60 хв",
-      "image": "../../image/type_categories/aromatherapy_ceremony.png"
+      "image": "./image/type_categories/aromatherapy_ceremony.png"
     }
   ]
 }
